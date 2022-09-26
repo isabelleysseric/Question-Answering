@@ -20,7 +20,7 @@ ou alors
 conda env create -f environment.yml
 ```
 
-# How to use
+# Comment l'utiliser
 
 Le programme s'excecute avec la commande 
 
