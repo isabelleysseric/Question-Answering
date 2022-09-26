@@ -1,4 +1,8 @@
-# TP 3 du cours de traitement de la langue naturelle
+# Système de Question / Réponse
+
+[Question-Answering](https://github.com/isabelleysseric/Question-Answering) (GitHub)&nbsp; • &nbsp;[Wiki Question-Answering](https://github.com/isabelleysseric/Question-Answering/wiki) (Wiki) 
+<br/>
+<br/>
 
 Ce programme utilise Keras pour créer et utiliser le modèle de Deep Learning.
 
