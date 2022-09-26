@@ -1,0 +1,1 @@
+ NOTEThis template is an implementation detail encapsulating the classification association we use for its parent template It has a single unnamed parameter and expands to a link corresponding to the classification specified noinclude

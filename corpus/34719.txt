@@ -1,0 +1,1 @@
+ fmbox warn default editnotice throttle disallow deauto block degroup warning warn throttle disallow deauto default block degroup color red font weight bold font style italic warn default throttle disallow deauto block degroup Stop x nuvola svg px Your action has triggered the Abuse Filter documentation 

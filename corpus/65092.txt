@@ -1,0 +1,1 @@
+A zero knowledge proof or zero knowledge protocol is a protocol used in cryptography In such a protocol two parties are communicating The task of one party is to convince the other that it knows some secret but without revealing the secret 

@@ -1,0 +1,1 @@
+ table class shortcutbox shortcutbox policy noprint style border px solid aaa background fff padding px text align center Putting anchors on page Adding the shortcut links Reporting if the first parameter is not a valid non bracketed shortcut name noinclude

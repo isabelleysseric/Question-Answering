@@ -1,0 +1,1 @@
+The root of a polynomial f is a value for x where the polynomial value f is zero For example if the polynomial so is a root of this polynomial In fact it can be seen that also is a root of this polynomial 

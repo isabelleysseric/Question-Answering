@@ -1,0 +1,1 @@
+ RubberBibleth is for referencing the th edition of the CRC Handbook of Chemistry and Physics also called the Rubber Bible It is based on the template Parameters are page to reference a single page pages to reference multiple pages

@@ -1,0 +1,1 @@
+The Acid test is a test of web browsers to see if they can show parts of the internet correctly It uses CSS and HTML to put things in the right places It uses the PNG file format format for the images it uses in the test A business company s web browser that works with the Acid test is able to show most of the internet correctly and is a modern web browser 

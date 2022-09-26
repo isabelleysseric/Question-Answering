@@ -1,0 +1,1 @@
+The name Atom applies to a pair of related standards The Atom Syndication Format is an XML language used for web feed s The Atom Publishing Protocol is a simple HTTP based system of rules for creating and updating web resources 

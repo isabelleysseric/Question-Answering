@@ -1,0 +1,1 @@
+ This template takes a This means that whenever a new year arrives all articles using this template have their displayed values updated accordingly Alternatively you can provide a second optional parameter and the value will be inflated for the period between the two years providing a convenient way of getting values from different time periods adjusted around the same date 

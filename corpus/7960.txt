@@ -1,0 +1,1 @@
+A unit vector is any vector that is one unit in length Unit vectors are often notated the same way as normal vectors but with a mark over the letter To make a vector into a unit vector divide it by its length 

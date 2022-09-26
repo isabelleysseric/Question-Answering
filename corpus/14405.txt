@@ -1,0 +1,1 @@
+This is a simple little template for use in other templates to strip any trailing and or leading whitespace from unnamed parameters In MediaWiki templates trailing and or leading whitespace is automatically removed from named parameters but not from unnamed parameters 

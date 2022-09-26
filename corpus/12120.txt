@@ -1,0 +1,1 @@
+This page shows all the hooks currently in the queue for moving to the Main page If all queues displayed in one place it can help to give users an idea of how full DYK is It might also help to know whether or not their hooks have been updated You may need to purge this page to get it to display the latest edits 

@@ -1,0 +1,1 @@
+ For a more detailed description of what importing is see m Help Import Help Import The local import tool is at Special Import This tool brings or imports a page from a different Wikipedia to the Simple English Wikipedia It can also bring the page history of the page to the Simple English Wikipedia 

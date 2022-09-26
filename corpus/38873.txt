@@ -1,0 +1,1 @@
+This is the message box It is meant to be put at the top of the documentation for templates that are used in the Wikipedia user interface Note It is normal that some of the links in the message box are red 

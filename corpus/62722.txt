@@ -1,0 +1,1 @@
+In cryptography a key distribution center key s and shared secret s KDCs often operate in systems when some users may have permission to use certain resource s at some times but not at any times Benefits Easier key distribution and scalability Drawbacks A KDC can become a single point of failure and every user must trust the KDC administrator s

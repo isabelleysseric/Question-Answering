@@ -1,0 +1,1 @@
+This template is used as part of mw Extension Collection Extension Collection See m Book tool for more information This templates substitutes the template in exported versions While that template expands to nothing this substituted template returns the passed parameter 

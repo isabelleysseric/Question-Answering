@@ -1,0 +1,1 @@
+A recloser is a circuit breaker which can be closed automatically after the breaker has been opened because of Fault electric fault Because many faults in power systems fix themselves after they happen the installation of recloser ensures more continuity of power and higher availability for electricity supply to the load sci stub 

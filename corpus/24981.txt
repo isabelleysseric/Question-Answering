@@ -1,0 +1,1 @@
+ The amplitude is the biggest distance from the fixed point The period is the time taken to get back to the same point again The equations of simple harmonic motion can be found by looking at a fixed wheel with radius radians in a full circle Imagine a white spot painted on the rim of the wheel If it starts level with the axle and the wheel has turned through an angle 

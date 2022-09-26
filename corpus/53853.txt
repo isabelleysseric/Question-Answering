@@ -1,0 +1,1 @@
+A vector graphics editor is a computer program that lets users make and change vector graphics image s and save them in one of many popular vector graphics formats such as Encapsulated PostScript EPS Portable Document Format PDF Windows Metafile WMF Scalable Vector Graphics SVG or Vector Markup Language VML 

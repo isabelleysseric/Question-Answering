@@ -1,0 +1,1 @@
+This template converts ONS coding system ONS codes to population rank density for Scottish councils It is only intended to be used in Template Infobox Scotland council area qv for example of use includeonly

@@ -1,0 +1,1 @@
+An analog to digital converter Typically an ADC is an electronics electronic device that converts an input analog voltage or Electric current current to a digital number The size of the number grows with an increase in the input voltage or current However some non electronic or only partially electronic devices such as rotary encoder s can also be considered ADCs 

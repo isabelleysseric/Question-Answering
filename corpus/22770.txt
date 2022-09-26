@@ -1,0 +1,1 @@
+This template is used to produce a simple loop that can repeat up to times It is not a real loop it works by conditionally repeating the string To use it enter If string contains an equals sign you must put string instead of string Examples loop 

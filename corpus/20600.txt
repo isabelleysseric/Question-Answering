@@ -1,0 +1,1 @@
+The first parameter should be used to specify which user has been impersonated should be used if it s uncertain whether it is an impersonation or not may be used for eventual evidence that it is an impersonation This template does not need to be substituted en Template Blocked impersonator includeonly

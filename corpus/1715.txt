@@ -1,0 +1,1 @@
+ Big O Notation is a way of saying how much time it takes for a mathematical algorithm to run or how much computer memory memory it uses The Big O Notation is often used in identifying how complex a problem is 

@@ -1,0 +1,1 @@
+ Pseudocode is a form of source code that is written for humans not machines to read It is often written to show how an algorithm completes the needed given task 

@@ -1,0 +1,1 @@
+This template generates a line containing the last editor of the page a link to the diff for the edit and the approximate amount of time since the edit 

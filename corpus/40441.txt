@@ -1,0 +1,1 @@
+ NOTOC This template is to render properly Arabic based scripts which don t use the main Arabic alphabet also to ensure that Arabic diacritics appear properly 

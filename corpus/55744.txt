@@ -1,0 +1,1 @@
+A coordinate system is a system of numbers used to uniquely determine the position of a point For D two dimensional systems the numbers are in ordered pairs More dimension s call for more numbers 

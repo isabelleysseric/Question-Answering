@@ -1,0 +1,1 @@
+This template may be used in the documentation of another template or module to indicate that that template or module tracks the data in or missing from one or more Wikidata properties NOTOC 

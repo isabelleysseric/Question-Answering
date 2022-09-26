@@ -1,0 +1,1 @@
+ NOTICE Use of this template is wikt obsolete obsolete Instead use data from Wikidata This template does not need to be removed immediately But there should be an effort over time to move toward use of Wikidata See en Wikipedia Village pump Archive RfC Should Persondata template be deprecated and methodically removed from articles this RfC from English Wikipedia 

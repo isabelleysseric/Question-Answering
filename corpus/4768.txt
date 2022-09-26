@@ -1,0 +1,1 @@
+WikiProject Check Wikipedia aims to help to clean up the syntax of Wikipedia and to find other errors Dumps and new articles are run through a series of checks to produce lists for each check The lists can be found on toollabs The table is updated every minutes This is the local page of the project en Wikipedia WikiProject Check Wikipedia Check Wikipedia on en wikipedia org

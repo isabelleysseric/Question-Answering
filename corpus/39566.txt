@@ -1,0 +1,1 @@
+This is a template for rendering simple family tree s consisting of boxes and connecting lines based on an ASCII art like syntax The trees are displayed as HTML tables using Cascading Style Sheets CSS attributes and may contain arbitrary wiki markup within the boxes 

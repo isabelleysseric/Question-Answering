@@ -1,0 +1,1 @@
+ Appletalk is a suite of protocol s for computer network ing It allowed Apple Macintosh computer s to connect one another It also allowed a computer to use a computer printer printer connected to the network Apple has switched from Appletalk to TCP IP 

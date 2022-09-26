@@ -1,0 +1,1 @@
+This template is used on categories for years in sportsThe parameters are The year the category is for with the last digit left off The last digit of the year the category is for

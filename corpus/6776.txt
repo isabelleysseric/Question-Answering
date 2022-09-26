@@ -1,0 +1,1 @@
+var iwiki new function View interwiki this onLoad function pLang document getElementById if return var h pLang getElementsByTagName addHandler if typeof h style 

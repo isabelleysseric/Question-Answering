@@ -1,0 +1,1 @@
+In linear algebra a basis is a set of vector s in a given vector space with certain properties The Dimension of a given vector space is the number of elements of the basis 

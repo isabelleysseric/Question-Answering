@@ -1,0 +1,1 @@
+The Amazon Standard Identification Number is number used by Amazon com to wikt identify identify books When there is a ten digit ISBN code the ASIN is usually the same number The ASIN can be useful to use when a book is old and has no ISBN code 

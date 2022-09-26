@@ -1,0 +1,1 @@
+A word search puzzle is a word game that uses words and puts them in a grid The grid is usually a rectangle or square shape The point of the game is to find all of the words hidden in the grid Many word search puzzles have a theme so all the hidden words are related The hidden words are placed horizontally vertically or diagonally 

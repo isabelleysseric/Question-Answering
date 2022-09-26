@@ -1,0 +1,1 @@
+This template returns the julian day number for now Syntax See also Template CURRENTYEARCC Template CURRENTYEARYY Template CURRENTCENTURY Template CURRENTMONTHDAYS Template CURRENTISOYEAR Template CURRENTWEEKDAY Template CURRENTMINUTE Template JULIANDAY includeonly

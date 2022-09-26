@@ -1,0 +1,1 @@
+ Voltage regulator is an Electronic component elecrical component that maintains a constant voltage level It stabilizes the voltage For example when a voltage regulator is fed a voltage that varies betveen Volts the regulator s output stays at exactly Volts Another way to stabilize voltage is by using a zener diode tech stub 

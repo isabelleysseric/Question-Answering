@@ -1,0 +1,1 @@
+This template is designed for use on Wikipedia Disambiguation disambiguation pages which only contain links to articles for people having the same name It displays a notice on the page and includes it in 

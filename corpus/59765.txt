@@ -1,0 +1,1 @@
+ Programmable Read Only Memory is a read only memory that can be Computer programming programmed directly by the user using a special PROM programmer It is also sometimes called a fusible link PROM 

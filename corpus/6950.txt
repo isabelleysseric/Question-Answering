@@ -1,0 +1,1 @@
+This template is used to produce a phonetic or phonemic representation of Irish language Irish words or sounds using natural spelling to avoid the need to search for the correct phonetic symbols The result is wikilinked to Wikipedia IPA for Irish Optionally an audio file can also be specified 

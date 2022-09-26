@@ -1,0 +1,1 @@
+ On Wikipedia image s can be used on a page by using the Image tag This tag uses the name of the image as well as some keywords to know where an image should be shown on a page 

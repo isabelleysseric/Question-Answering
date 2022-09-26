@@ -1,0 +1,1 @@
+ Implication is a logical operation It is the relationship between statements that holds true when one logically follows from one or more others Implications take two arguments It returns false if and only if the first term is true and the second term is false This may be problematic because it means that from a false proposition anything can follow 

@@ -1,0 +1,1 @@
+This shows all the logs of Wikipedia You can also view logs by log type the user making the log or the affected page or user User This is the person who made the action It does not use the User prefix Title The page or user affected by an action The username uses the User prefix Page names use the full title of the page for example Wikipedia talk Userboxes 

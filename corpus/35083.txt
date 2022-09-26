@@ -1,0 +1,1 @@
+ VisualEditor is a new way of changing Wikipedia It is being written by the Wikimedia Foundation In the past changing Wikipedia has required people to learn wiki markup a fairly difficult markup language even to make tiny corrections to an article This difficult code makes people want to leave Wikipedia VisualEditor allows people to edit without having to learn wiki markup 

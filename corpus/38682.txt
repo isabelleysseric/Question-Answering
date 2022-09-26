@@ -1,0 +1,1 @@
+This is the or article message box meta template It is used to build article message box templates such as It offers several different colours uses default images if no image parameter is given and has some other features 

@@ -1,0 +1,1 @@
+ Finnix is a Debian based Live CD Linux distribution developed by Ryan Finnie and intended for system administrators for tasks such as filesystem recovery network monitoring and OS installation Finnix is a small distribution Linux Distribution with an ISO download size of approximately MiB 

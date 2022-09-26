@@ -1,0 +1,1 @@
+This set of templates is used for creating certification tables for albums singles etc The table includes either two or three columns depending on the variable If the columns are region and award In the latter case the region column uses a thinner form includeonly

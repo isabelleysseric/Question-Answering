@@ -1,0 +1,1 @@
+An improper rotation can be understood as an inversion followed by a proper rotation Equivalently it is the combination of a rotation and an inversion in a point on the Axis axis Therefore it is also called a rotoinversion or rotary inversion A simple example of an improper rotation in D 

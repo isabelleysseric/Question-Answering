@@ -1,0 +1,1 @@
+ Pnex template Infobox title above subheader image caption This module implements It creates a template demonstration such as that shown opposite Please see Template Parameter names example the template page for full documentation includeonly

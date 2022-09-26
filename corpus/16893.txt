@@ -1,0 +1,1 @@
+ parameter Template Infobox person weight changes text for units of weight to the abbreviations kg lb or st then passes the string to Template Infobox person weight locate which replaces any instances of with a space and determines the positions of kg lb or st within that string all of which is passed to Template Infobox person weight switch which does the conversion

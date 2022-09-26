@@ -1,0 +1,1 @@
+This template has two different functions dependent on input If only one parameter is given the template counts the number of significant figures of the given number within the ranges If two parameters are given the template rounds the first number to the number of significant figures given by the second 

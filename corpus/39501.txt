@@ -1,0 +1,1 @@
+ MINIX is a Unix like computer operating system based on a microkernel Software architecture architecture Andrew S Tanenbaum wrote the operating system so it could be used for educational purposes MINIX also helped Linus Torvalds design the Linux kernel Its name comes from the words minimal and Unix Released under the BSD license MINIX is free software free and open source 

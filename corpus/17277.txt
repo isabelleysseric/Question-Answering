@@ -1,0 +1,1 @@
+In mathematics a root of a function f is a number x that turns the value of f to One can talk about polynomial polynomial root roots because a polynomial is also a function There exists a Fundamental theorem of algebra theorem that states that every polynomial with complex coefficients has at least one 

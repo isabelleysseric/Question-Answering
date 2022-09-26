@@ -1,0 +1,1 @@
+ Burst kinetics is a form of enzyme kinetics Upon adding enzyme to substrate a large initial velocity is exhibited that levels off once all enzymes have been saturated At this point enzyme velocity linearly increases The initial high velocity is called the burst phase 

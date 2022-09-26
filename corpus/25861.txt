@@ -1,0 +1,1 @@
+This template adds a tiny image to the top right of the page to show the user page belongs to a Patroller You can alter the location from the right side of the page by using the right parameter e g moves it to left by px leaving a px gap from the end of the page This template adds pages to 

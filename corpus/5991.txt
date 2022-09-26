@@ -1,0 +1,1 @@
+A kernel is the central part of an operating system It manages the tasks of the computer and the hardware most notably memory and CPU time There are two types of kernels A computer user never interacts directly with the kernel It runs behind the scenes and cannot be seen except for the text logs that it prints 

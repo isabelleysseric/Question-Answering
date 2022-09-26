@@ -1,0 +1,1 @@
+ Informative template Population data as of January Reference STATBEL This template works like a database Please don t modify it if you re not sure of what you are doing noinclude

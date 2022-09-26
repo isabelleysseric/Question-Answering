@@ -1,0 +1,1 @@
+Using too many individual article message boxes can distract from the article and make it very ugly to look at This template tags articles or sections for multiple maintenance issues and then displays the alerts in a single box as an alternative to using several space consuming boxes 

@@ -1,0 +1,1 @@
+ This article incorporates from the document if the article exist link to it source not set italicize main string if no document title This article incorporates from the if agency has a wiki article link to it otherwise if url and no article use url as ext link otherwise just use normal text end conditional italics End of source test End of agency test noinclude

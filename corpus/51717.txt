@@ -1,0 +1,1 @@
+ Safari is a web browser developed by Apple Inc which can be downloaded free of charge It also comes with a OS X computer It is based on the WebKit engine which is a Fork fork of KDE s KHTML engine 

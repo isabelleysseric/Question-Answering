@@ -1,0 +1,1 @@
+ Nmap is a computer program that is used for port scanning It was written by Gordon Lyon It can also do other kinds of scanning This is because Nmap is open source so many people can help write it to make it better Nmap works on most operating system s It works on Linux Microsoft Windows Mac OS X Solaris and BSD Most people use it on Linux but many people use it on Windows 

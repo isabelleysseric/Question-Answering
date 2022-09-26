@@ -1,0 +1,1 @@
+ It is very similar to the programming language Pascal Pascal Ada offers various features to make a programme as safe as possible That is why it is often used in systems where an error can be very dangerous Ada is an international standard 

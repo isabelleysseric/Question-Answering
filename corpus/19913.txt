@@ -1,0 +1,1 @@
+ Car navigation allows an automobile driver to see where he or she is on a map at any given time Automobile navigation can rely on GPS transmission The GPS receiver catches the signal and calculates the time The GPS can then calculate the distance from the satellite with the well known Speed of light radio signal speed 

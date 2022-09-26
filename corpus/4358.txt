@@ -1,0 +1,1 @@
+This template outputs lorem ipsum filler text It takes three parameters the number of paragraphs to generate paragraph prefix and paragraph suffix There are distinct paragraphs After this the text will be repeated For example generates Note that whitespace is important in the last two parameters as results in 

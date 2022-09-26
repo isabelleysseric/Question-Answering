@@ -1,0 +1,1 @@
+ This template is specially built for including route map based on the Wikipedia route diagram template set into the infobox parameter or anything like that primarily for with your route diagram template name 

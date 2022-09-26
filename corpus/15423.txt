@@ -1,0 +1,1 @@
+In cryptography the so called product cipher s are a certain kind of cipher s where the Encryption decryption of data is done in rounds The general setup of each round is the same except for some hard coded parameters and a part of the key cipher key called a subkey A key schedule is an algorithm that given the key calculates the subkeys for these rounds 

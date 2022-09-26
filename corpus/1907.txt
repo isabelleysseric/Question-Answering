@@ -1,0 +1,1 @@
+This Lua based module is meant to build group and league tables for sports as well Note that this module is used extensively so test potential changes rigorously in the sandbox and please ensure consensus exists before implementing major changes The rest of this documentation explains how the set up of the module Refer to individual style pages for detailed usage instructution

@@ -1,0 +1,1 @@
+In electrical engineering the power factor The power factor is defined as PF ranges from zero to one The higher the PF the more efficient the circuit is because more power can be used and vice versa Factors that can cause PF to be less than one is non linear load which are capacitive load and inductive load sci stub 

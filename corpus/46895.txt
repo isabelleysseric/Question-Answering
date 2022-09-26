@@ -1,0 +1,1 @@
+A Turing machine is an idea from computer science that tries to describe how some computer s work Deterministic Turing machines use a Function relation This means that from some states there are several other states that are possible 

@@ -1,0 +1,1 @@
+ Special Whatlinkshere First parameter is the page being linked Optional second parameter can change the text displayed Optional can be used to specify links to pages outside of the Template namespace

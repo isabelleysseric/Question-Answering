@@ -1,0 +1,1 @@
+ Network File System system The Network File System is an open standard defined in Request for Comments RFCs That way anyone can implement the protocol NFS became the first widely used network file system Other notable network file systems are Andrew File System 

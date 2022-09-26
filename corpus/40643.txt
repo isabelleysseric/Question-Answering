@@ -1,0 +1,1 @@
+This category is for sub templates that are used as transclusions of stock pieces of shared documentation content in the doc pages of more than one template 

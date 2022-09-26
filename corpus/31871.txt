@@ -1,0 +1,1 @@
+This template shows the date of establishment of an institution company etc and its age in years This template should not be used for the date of birth or death of people use instead The template requires YYYY MM DD parameters Do not use for YYYY nor YYYY MM dates 

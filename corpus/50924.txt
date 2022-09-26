@@ -1,0 +1,1 @@
+ class infobox style width em background fffd text align center font size cellpadding align center style width background transparent text align left font size noinclude

@@ -1,0 +1,1 @@
+ Data vault is a term that has two different meanings It can refer to technology technologies of keeping copies of data in a different location known as off site data protection It can refer to Data vault modeling a way to design database s so they can keep historical data 

@@ -1,0 +1,1 @@
+ This module implements Template isValidPageName local export function export isValidPageName	local res mw title new		if res then		return valid 	else		return 	endendreturn expor

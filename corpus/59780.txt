@@ -1,0 +1,1 @@
+The Dirac delta function is a made up concept by mathematician Paul Dirac It is a really pointy and skinny function that pokes out a point along a wave The delta function is used a lot in sampling theory where its pointiness is useful for getting clean samples The integral of the Dirac Delta Function is the Heaviside Function 

@@ -1,0 +1,1 @@
+A gigabyte of a modern computer Now international standards bodies say a gigabyte should only be used to mean exactly billion byte s and that gibibyte is a better name for bytes In everyday use people use gigabyte to mean bytes when talking about computer memory and bytes when talking about computer disk space One thousand gigabytes make one terabyte 

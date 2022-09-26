@@ -1,0 +1,1 @@
+Documentation for dynamic navigation boxes Dynamic navigation boxes use a combination of CSS and Javascript to make collapsible navigation boxes The technical parts comprise style sheet declarations in MediaWiki Common css and Javascript code in MediaWiki Common js Example 

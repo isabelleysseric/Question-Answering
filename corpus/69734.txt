@@ -1,0 +1,1 @@
+This essay WP percent table width anomaly addresses the issue of some tables inside other tables Perhaps the full name of the essay could be percent table width anomaly triggering bottom scroll bars for top level CSS class tables The problem does not occur for other tables without the keyword class 

@@ -1,0 +1,1 @@
+ This script does not function without additional helper modules Please see Wikipedia AutoEd for details on use Initiates AutoEdfunction autoEdExecute if return copy wikEd frame to wpTextbox textarea for compatibility with WikiEd if typeof wikEdUseWikEd 

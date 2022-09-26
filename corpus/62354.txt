@@ -1,0 +1,1 @@
+ Slackware is a GNU Linux distribution which is famous for being stable fast and suitable for older computers Slackware is the oldest Linux distribution that is still supported It does not offer any graphical tools for configuration rather the person must change it on his or her own using the Command Line Interface and by editing text files The newest version is Slackware 

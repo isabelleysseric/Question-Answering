@@ -1,0 +1,1 @@
+ Quassel IRC or Quassel is an IRC client introduced in It is released under the GNU General Public License for GNU and Unix like operating systems OS X and Microsoft Windows Since the release of Kubuntu Qt application framework 

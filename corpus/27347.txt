@@ -1,0 +1,1 @@
+ float center lat deg lat min lat sec lat dir lon deg lon min lon sec lon dir lat long width border none alt caption mark Red pog svg marksize label noinclude

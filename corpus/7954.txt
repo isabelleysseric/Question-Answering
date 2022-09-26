@@ -1,0 +1,1 @@
+ CryptoLocker is a file wikt encrypting encrypting ransomware It will give the user hours to pay the ransom If the user does not pay the fee in time the ransomware will uninstall itself and ask the user to download it again It will then ask the user for bitcoin instead of 

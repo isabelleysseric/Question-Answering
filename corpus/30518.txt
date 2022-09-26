@@ -1,0 +1,1 @@
+In set theory Cantor s theorem states that the set which contains all subsets of a set has a greater cardinality than the set itself Georg Cantor showed this in an article he published in The theorem is valid both for finite and infinite sets math stub 

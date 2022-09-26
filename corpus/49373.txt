@@ -1,0 +1,1 @@
+In modular arithmetic a number g is a primitive root modulo n if every number m from n can be expressed in the form of As an example is a primitive root modulo All the elements of the group modulo can be expressed that way The number is no primitive root modulo because math stub 

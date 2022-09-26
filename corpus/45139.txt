@@ -1,0 +1,1 @@
+ but the output range is only to Thus the functinality of precision is a subset of the functionality of precision but the advantage is that the template code is much shorter It is useful when one has to be cautious of template pre expand limits 

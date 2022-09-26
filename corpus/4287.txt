@@ -1,0 +1,1 @@
+ optional verbatim message not included by default cite encyclopedia wrapper unlinked title can be specified otherwise first unnamed arg is used for Wikisource link year defaults to cite encyclopaedia noinclude

@@ -1,0 +1,1 @@
+ Interpolation is a process which constructs a continuous function from a set of points In nearest neighbor interpolation the idea is to use the value of the data point or measurement which is closest to the current point The method is also known as proximal interpolation or point sampling math stub 

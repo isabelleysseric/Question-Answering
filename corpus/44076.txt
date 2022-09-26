@@ -1,0 +1,1 @@
+ Amarok is a music player for the KDE desktop environment Unlike most KDE programs it has its own schedule for releasing versions so a new version of Amarok might not be released when a new version of KDE comes out Amarok s first stable version was released in They are now on version 

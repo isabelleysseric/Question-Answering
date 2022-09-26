@@ -1,0 +1,1 @@
+ Wiki markup also known as wikitext or wikicode consists of the syntax and wikt keyword keyword s used by the MediaWiki software to wikt format format a page To learn how to see this Markup language markup and to save an edit see Help Editing There is a short list of markup and tips at Help Cheatsheet 

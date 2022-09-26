@@ -1,0 +1,1 @@
+ Subfunctions for this module that are called from the style moduleslocal ppp function ppp colhead	 For individual column headers	local head string	if width

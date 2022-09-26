@@ -1,0 +1,1 @@
+ phpBB is a wikt common commonly used Free software free computer software for forum s As the name suggests phpBB is written in PHP with the use of one of SQL compatible database s 

@@ -1,0 +1,1 @@
+This template creates a Wikipedia NavFrame dynamic navigation box using style sheet declarations in MediaWiki Common css and Javascript code in MediaWiki Common js It displays the first parameter is displayed below the heading and the show link becomes hide Clicking on hide then hides the body again and the hide link becomes show again 

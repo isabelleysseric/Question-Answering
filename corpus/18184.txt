@@ -1,0 +1,1 @@
+In physics the superposition principle states that if there are two or more stimuli at a given point in time the response will be the result of adding all the responses This only applies to linear system s Since many systems can be model led as linear systems the principle has many applications in physics and engineering 

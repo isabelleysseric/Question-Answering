@@ -1,0 +1,1 @@
+This template allows quick creation of Wikipedia Navigational templates navigational template for groups of articles containing names of U S states It uses Template Navbox to create the navigation box 

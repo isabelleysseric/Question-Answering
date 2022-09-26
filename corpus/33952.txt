@@ -1,0 +1,1 @@
+ Non volatile random access memory is a type of computer memory It is permanent storage similar to a hard drive The startup configuration is stored in NVRAM The best known form of NVRAM today is the flash drive 

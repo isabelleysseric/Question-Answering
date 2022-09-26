@@ -1,0 +1,1 @@
+ Usage instructions First use places an image and some bolded text according to the table on the right The second use also replaces the bolded text with the supplied TEXT noinclude

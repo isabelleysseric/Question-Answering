@@ -1,0 +1,1 @@
+Creates a location map as a m Help composite images composite image of an existing map in either equirectangular projection or skewed projection with multiple which specifies points as a coded template list of markers labels 

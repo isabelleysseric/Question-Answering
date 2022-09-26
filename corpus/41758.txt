@@ -1,0 +1,1 @@
+The loopback address is a computing term that is a special IP address of a computer computer s ethernet ethernet network It is used to allow software on a computer to send information to the same computer using the TCP IP TCP IP stack The special IP address is known as 

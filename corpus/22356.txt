@@ -1,0 +1,1 @@
+ Laplace s equation is a partial differential equation of the second order It is named after Pierre Simon Laplace an th century mathematician who first described it One of the uses of the equation is to predict the Heat conduction conduction of heat another to model the conduction of electricity 

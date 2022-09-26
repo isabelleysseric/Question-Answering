@@ -1,0 +1,1 @@
+A weather station has machines that measure wind speed wind direction temperature barometric pressure and humidity of the air around them There are many ways to do this with instruments such as barometer s Many weather stations have no people they report their measurements automatically 

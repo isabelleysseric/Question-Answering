@@ -1,0 +1,1 @@
+ is a little more complicated than others so an explanation of its use is provided below The goal of the template is to directly link to the World Health Organization s ICD ICD website Unfortunately the design of that website and the design of MediaWiki mean that certain compromises had to be made in the template 

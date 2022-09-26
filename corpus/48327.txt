@@ -1,0 +1,1 @@
+ Set theory is the study of set s in mathematics Set s are collections of wikt object object s We refer to these objects as elements or members of the set To write a set one wraps the numbers in curly brackets and separates them with commas e g holds and There are three types of set theories Description method Roster method 

@@ -1,0 +1,1 @@
+The Debian Free Software Guidelines that the Debian Project uses to decide whether a software license is a free software license which is used to decide whether a piece of software can be included in Debian The DFSG is part of the Debian Social Contract 

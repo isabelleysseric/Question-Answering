@@ -1,0 +1,1 @@
+A thermal power plant is a power plant where steam is used to drive a steam turbine This turbine is connected to an electrical generator After this the water is condensation condensed and may be used again This is known as the Rankine cycle There are different procedures that can be used to heat the water this gives different types of thermal power plants 

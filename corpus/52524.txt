@@ -1,0 +1,1 @@
+A partial discharge inside the insulating material The insulating material can be either solid or fluid The charge passing through this insulation is called electrical breakdown 

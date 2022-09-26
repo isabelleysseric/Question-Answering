@@ -1,0 +1,1 @@
+ The first parameter is to say where the problem is e g is it for an article a template or a section of an article The second parameter is to say what the problem is The third parameter is for Wikipedia Categorization Sorting sorting the page to a monthly subcategory The fourth parameter is for checking the WP diff difference to help simplifying 

@@ -1,0 +1,1 @@
+A tape drive or streamer is a component that is often attached to a computer It is used to write Information data to magnetic tape or to read data from it Usually people use it to do backup s Tape drives are different from hard drives in that the access to the data is sequential cartridge 

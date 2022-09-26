@@ -1,0 +1,1 @@
+ Deleting a page is a straightforward operation for anyone with Help Sysops and permissions sysop permissions Users without such permissions can still remove text from wiki pages or propose request that a page should be deleted See Help Deleting a page 

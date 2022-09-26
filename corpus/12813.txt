@@ -1,0 +1,1 @@
+This is a meta module that implements the message box templates It is intended to be used from Lua modules and should not be used directly from wiki pages If you want to use this module s functionality from a wiki page please use the individual message box templates instead 

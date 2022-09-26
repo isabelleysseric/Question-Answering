@@ -1,0 +1,1 @@
+The sudo command is a program for Unix like operating systems like Linux Linux distibutions which allows a user to run a program as the root It is an abbreviation for s uper u ser do Superuser means administrator 

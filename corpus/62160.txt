@@ -1,0 +1,1 @@
+In mathematics the cardinality of a set means the number of its Set theory element s For example the set A contains elements and therefore A has a cardinality of Two sets have the same set B if and only if there is an injective function from A to B The cardinality of a set is only one way of giving a number to the size of a set Measure theory Measure is different 

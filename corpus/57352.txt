@@ -1,0 +1,1 @@
+This template provides a simple conversion table from an IPA symbol to a Wikipedia article name The resulting article name should exist The input symbol may be multiple characters or may be a sequence of IPA numbers 

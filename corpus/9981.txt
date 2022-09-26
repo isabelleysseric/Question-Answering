@@ -1,0 +1,1 @@
+ Black start is the process to start up in a power station from zero without the help of power from the electrical grid grid connected to the station Usually a power station uses its own set of electrical generator to start the plant This is a diesel generator called the Black start diesel generator This powers up all electrical panels which control the station 

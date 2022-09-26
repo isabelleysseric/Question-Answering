@@ -1,0 +1,1 @@
+The two body problem is a problem from classical mechanics there are two bodies which influence each other Very often they attract or repel each other In many cases they rotate The problem uses bodies which are Circle circles or Sphere spheres Solving the problem is possible for many situations but it usually involves higher level mathematics 

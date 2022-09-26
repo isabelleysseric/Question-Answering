@@ -1,0 +1,1 @@
+ hiero doc content This table template produces a serekh for an Egyptian horus name The parameters that can be set are align left right era sets colour scheme name name in English of the person horus hieroglyphs of the person s name with hiero tags noinclude

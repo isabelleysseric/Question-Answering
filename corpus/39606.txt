@@ -1,0 +1,1 @@
+Evaluates and returns the minimum of a list of numeric values The parameters can be numeric expressions that will be evaluated Empty or missing parameters are ignored 

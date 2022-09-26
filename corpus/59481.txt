@@ -1,0 +1,1 @@
+A subdomain is the portion shown before a domain name separated by a full stop dot For example a domain might look like this example com Whereas the subdomain of this domain might look like this shown here in bold subdomain example com 

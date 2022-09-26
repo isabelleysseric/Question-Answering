@@ -1,0 +1,1 @@
+The templates automatically wikilink an IPA symbol to the respective sound article and provide IPA defined brackets IPA a link displays them within square brackets and IPA s link displays the symbol between slashes The conversion table is not defined in this template but inherited from For a more general IPA linking template with multiple options including IPA brackting see 

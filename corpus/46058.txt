@@ -1,0 +1,1 @@
+ Conficker is a computer worm that first showed up in October It targeted the Microsoft Windows operating system Conficker was believed to be the worst computer worm since the SQL slammer worm in On February Microsoft offered a USD reward for help with finding and arresting the people who created the computer worm 

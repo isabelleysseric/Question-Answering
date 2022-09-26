@@ -1,0 +1,1 @@
+ ELF Filecoder A is a ransomware Trojan horse Trojan that infects Unix systems There are different versions of the Trojan for several different flavors of Unix including Linux FreeBSD and MacOS Like other ransomware it encrypts files on the system and demands payment for decryption 

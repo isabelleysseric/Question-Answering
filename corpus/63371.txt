@@ -1,0 +1,1 @@
+This template is part of the new WikiProject Ships ship infobox It adds a picture and caption to the infobox Each section except Infobox Ship Begin can be repeated as necessary to support multiple careers multiple sets of characteristics etc If you have any questions or comments please ask User TomTheHand en Template Infobox ship image tl Suleras Infobox Ship Image noinclude

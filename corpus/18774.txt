@@ -1,0 +1,1 @@
+ Geo is a microformat for marking up World Geodetic System WSG Geographic coordinate system geographical coordinates in XHTML HTML Geo allows parsing tools to extract a location The location can then be used in another website or mapping tool It can also input into a Global Positioning System GPS 

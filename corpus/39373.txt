@@ -1,0 +1,1 @@
+ Visual Studio Tools for Office is an add on product for Microsoft Visual Studio Microsoft s Visual Studio product that enables developers to create computer program applications using Microsoft Office 

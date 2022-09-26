@@ -1,0 +1,1 @@
+In programming language s an array is a way of storing several items When the programmer creates an array they must give the size of the array This is the number of items that can be stored in the array If the programmer wants to store more items then they must create a new array This is because the size of an array can not be changed 

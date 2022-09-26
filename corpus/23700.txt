@@ -1,0 +1,1 @@
+This template is part of a series of MMA event templates to make it easier to record the results of a MMA event This particular template is used to create the header row for each card Multiple cards can exist for a single event so this template can be used multiple times 

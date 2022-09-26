@@ -1,0 +1,1 @@
+This template returns the cyclic integer month number in ISO format Syntax Examples for all standard English month names Examples for all abbreviated English month names Examples for all standard month numbers Examples for month numbers with extra leading zero Examples for month number underflows and overflows from computed values Example for invalid month name 

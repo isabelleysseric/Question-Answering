@@ -1,0 +1,1 @@
+This template is used to display an airport s location identifiers or airport codes It is usually included in the first paragraph of an airport article immediately following the airport s name 

@@ -1,0 +1,1 @@
+ To display some text at normal font weight within a context where the default font weight is bold e g header cells in tables en Template Nobold includeonly

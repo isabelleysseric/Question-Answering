@@ -1,0 +1,1 @@
+ RPM Package Manager is a package management system The name RPM refers to two things a software package file format and software packaged in this format RPM was intended mainly for Linux distributions the file format RPM is the baseline package format of the Linux Standard Base 

@@ -1,0 +1,1 @@
+In fluid dynamics dynamic pressure depends on density and velocity of the fluid It is defined by the following equation where dynamic pressure in pascals fluid velocity in m s

@@ -1,0 +1,1 @@
+A proof of work system is a system where finding a solution to a given problem is difficult and or expensive but verifying the solution to the given problem is simple and or cheap 

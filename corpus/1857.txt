@@ -1,0 +1,1 @@
+This template is a quick and easy way to insert smilies icons The template takes a number as the only parameter and displays a smiley icon If no number is used the basic happy face smiley icon is displayed 

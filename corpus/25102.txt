@@ -1,0 +1,1 @@
+A Metropolitan area network An example of where MANs are used are the networks on a campus of a university MANs use different technologies than LANs Today most MANs are done using fibre optic cabling Protocol suites used in MANs include Asynchronous Transfer Mode Switched Multimegabit Data Service and Distributed queue dual bus MANs can reach distances of up to km 

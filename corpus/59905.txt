@@ -1,0 +1,1 @@
+A reed switch is an electrical switch that changes its position via magnetism It is turned on by bringing a magnet near to the switch Once the magnet is pulled away from the switch the reed switch will go back to its original position If the magnet is an electromagnet it is a reed relay The reed switch was invent ed at Bell Telephone Laboratories in by W B Ellwood tech stub 

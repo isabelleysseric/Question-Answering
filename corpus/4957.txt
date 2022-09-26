@@ -1,0 +1,1 @@
+In cryptography key size or key length is the size Typical key sizes in modern symmetric ciphers are and bits Older symmetric ciphers used only or bits which can be broken by Brute force attack brute force 

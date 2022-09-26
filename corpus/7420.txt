@@ -1,0 +1,1 @@
+ color This template makes cool temperature background colors It is an alternative to Template Weather box colt which uses the standard colors noinclude

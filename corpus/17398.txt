@@ -1,0 +1,1 @@
+ documentation content This template automatically gives a white background to references that are used inside the template when Wikipedia s link colours are not WCAG AAA Compliant with the background colour of the table header Parameter is the colour Parameter is the reference noinclude

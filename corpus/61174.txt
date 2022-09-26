@@ -1,0 +1,1 @@
+The Collatz conjecture is a conjecture starting at some integer n The conjecture states that if n is positive n will always reach one Here is an example sequence 

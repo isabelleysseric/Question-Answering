@@ -1,0 +1,1 @@
+ NOTEThis template is an implementation detail encapsulating the color association we use for its parent template It has a single unnamed parameter and expands to noinclude

@@ -1,0 +1,1 @@
+The X Forwarded For HTTP header is a standard for finding the IP address of a client connecting to a server web server through an HTTP proxy server proxy or load balancer comes from 

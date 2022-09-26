@@ -1,0 +1,1 @@
+In computing data validation is the way of making sure that a program operates on clean correct and useful data It uses routines often called validation rules or check routines that check for correctness meaningfulness and security of data that are input to the system It is automatic and ensures that the data entered is reasonable tech stub 

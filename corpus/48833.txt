@@ -1,0 +1,1 @@
+In cryptography a one way function is a function function that is very simple to compute in one direction There is a series of instructions that can be simply and easily applied to an input to give a complicated output However the reverse of going from the output to the input is made to be as difficult as possible 

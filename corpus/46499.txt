@@ -1,0 +1,1 @@
+A Wilson prime is a special kind of prime number A prime number p is a Wilson prime if where n is a positive number positive integer The only known Wilson primes are and is about Compare this with Wilson s theorem which states that every prime p divides 

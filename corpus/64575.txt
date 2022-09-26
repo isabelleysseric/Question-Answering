@@ -1,0 +1,1 @@
+This template is used to display a small flag icon next to a wikilinked country name It is related to the templates but offers more options in terms of the text string displayed 

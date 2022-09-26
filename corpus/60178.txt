@@ -1,0 +1,1 @@
+In mathematics a limit is a guess of the value of a Function derivatives and Integral integrals Limit are written like this and read as the limit of f of x as x approaches c Limit is shortened to lim 

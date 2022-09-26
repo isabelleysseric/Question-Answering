@@ -1,0 +1,1 @@
+ MEPIS MEPIS distributions are created by Warren Woodford It can either be installed onto a hard drive or used as a Live CD which makes it a boot disc for troubleshooting many operating systems It includes KDE the K Desktop Environment 

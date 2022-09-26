@@ -1,0 +1,1 @@
+ Computational complexity theory is a part of computer science It looks at algorithm s and tries to say how many steps or how much memory a certain algorithm takes for a computer to do Very often algorithms that use fewer steps use more memory Many interesting algorithms take a number of steps that is dependent on the size of the problem 

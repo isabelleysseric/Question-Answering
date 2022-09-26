@@ -1,0 +1,1 @@
+A discrete cosine transform is a math process that can be used to make things like MP s and JPEG s smaller It does this by breaking the sound or picture into different frequency frequencies One way to calculate a discrete cosine transform is to use the Fourier transformation Discrete means that it works on digital signal Discrete time signals discrete time signals 

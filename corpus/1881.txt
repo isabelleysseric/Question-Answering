@@ -1,0 +1,1 @@
+Same templates create their own fake thumbnail frames When these thumbs have a caption they can add the magnify icon to link to the imagedescription page This template generates the HTML for those uses 

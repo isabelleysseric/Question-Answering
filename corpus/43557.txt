@@ -1,0 +1,1 @@
+In algebra commutative ring is a set of elements in which you can add and multiply and have multiplication distribute over addition An example of a commutative ring is the set of integer s If we add two integers we get an integer and if we multiply two integers we get another integer Moreover multiplication distributes in the sense that if a b and c are integers then c ca cb 

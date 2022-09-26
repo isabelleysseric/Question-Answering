@@ -1,0 +1,1 @@
+In number theory Iwasawa theory is a Galois module theory of ideal class group s started by Kenkichi Iwasawa in the s as part of the theory of cyclotomic field s In the early s Barry Mazur thought about generalizations of Iwasawa theory to Abelian Varieties Later in the early s Ralph Greenberg has suggested an Iwasawa theory for motive motives 

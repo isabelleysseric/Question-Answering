@@ -1,0 +1,1 @@
+In German physicist Gustav Kirchhoff described two laws about electrical circuit s These laws are generalizations of Ohm s law Kirchhoff s circuit laws are very useful in solving circuit problems 

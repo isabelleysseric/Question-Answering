@@ -1,0 +1,1 @@
+This template produces a standard box to start a sound file It has some extra features to help linking to a phonetic sound file Also there are options to format possible error messages and to alter the layout of the box Basic examples 

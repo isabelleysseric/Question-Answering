@@ -1,0 +1,1 @@
+ Internet Message Access Protocol is a communication protocol a set of rules that e mail client programs like the one in your computer use to download email from a mail server An older protocol which does the same thing is called Post Office Protocol but IMAP has additional features 

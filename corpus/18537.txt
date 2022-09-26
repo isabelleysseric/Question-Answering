@@ -1,0 +1,1 @@
+ Folding Home is a distributed computing project that helps doctors at Stanford University learn about and cure disease diseases The project uses the Idle Android mobile device s 

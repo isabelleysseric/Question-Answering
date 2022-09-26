@@ -1,0 +1,1 @@
+This template allows you to easily include a panorama image If the image is too wide scrollbars will be added If you do not want the image to use a thumbnail frame you can use the template instead 

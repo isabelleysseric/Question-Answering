@@ -1,0 +1,1 @@
+ Error detection and correction is about methods to make sure that information or Information data is not corrupted and still makes sense The techniques help reliable delivery of digital data over unreliable communication channels 

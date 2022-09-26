@@ -1,0 +1,1 @@
+In computer science a pointer is a variable whose value is a location in the computer s Computer memory memory N Datta Computer Programming and Numerical Analysis Copying a pointer to a large object is faster than copying the large object itself 

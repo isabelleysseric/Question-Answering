@@ -1,0 +1,1 @@
+This template trims whitespace from a string The string should be passed as the first unnamed parameter You may WP SUBST substitute this template that is if used as the resulting wikicode is clean 

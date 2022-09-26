@@ -1,0 +1,1 @@
+Generate an identifier suitable as an Template Citation doc Anchors for Harvard referencing templates anchor for a Harvard citation This template which can be used with either the name This templates uses the same arguments as the other citation templates As explained below this template is needed only in some cases when the Harvard citation templates are used 

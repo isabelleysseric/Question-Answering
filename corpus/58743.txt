@@ -1,0 +1,1 @@
+ table class shortcutbox shortcutbox template plainlinks noprint style border px solid aaa background fff padding px text align center Shortcut noinclude

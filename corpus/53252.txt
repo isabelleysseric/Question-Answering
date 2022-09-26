@@ -1,0 +1,1 @@
+ This imports the latest version of HotCat from Commons HotCat is a gadget to make changes to categories much easier Full documentation can be found at commons wikimedia org wiki Help Gadget HotCat 	mw loader load

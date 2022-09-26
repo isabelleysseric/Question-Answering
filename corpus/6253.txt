@@ -1,0 +1,1 @@
+The chain rule is a way of finding the derivative of a function It is used where the function is in another function This is called a composite function If F equals two functions that we can take a derivative of such as then the derivative F prime is 

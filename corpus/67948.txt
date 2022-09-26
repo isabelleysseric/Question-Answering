@@ -1,0 +1,1 @@
+This is the template It can be placed on template sandbox pages It also detects when it is not on a sandbox page and then shows nothing thus it can be left in the code when copied and pasted to the main template To learn more about how to use template sandbox and testcases subpages see Wikipedia Template test cases 

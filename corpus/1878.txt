@@ -1,0 +1,1 @@
+ This module implements local p local function makeParam	local lb 	local rb 	return lb rependlocal function italicize	return s endlocal function plain	return sendfunction p main	 Find how we want to format the arguments to the template 	local formatFunc	if args display 

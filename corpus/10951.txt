@@ -1,0 +1,1 @@
+ Valve Hammer Editor which used to be called Worldcraft and is now often called Hammer is Valve Corporation s map creation program for their game engine game engines Source and formerly GoldSrc Worldcraft was originally made for Quake and Quake II but is now used on other games such as Half Life Counter Strike Source and Left Dead 

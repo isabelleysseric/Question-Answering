@@ -1,0 +1,1 @@
+ PubMed is a free online database of references on life sciences Each record in the PubMed database is assigned a special number to identify it Any PMID is only a number The PMID tells the reader nothing about the type or quality of the content of any publication 

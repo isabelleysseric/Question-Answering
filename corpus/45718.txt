@@ -1,0 +1,1 @@
+ Wilson s theorem is a theorem of number theory Let n be any natural number Wilson s theorem says that n is a prime number if and only if This means that if n is a prime number the equation is correct Also if the equation is correct then n is a prime number The equation says that the factorial of is one less than a multiple of n 

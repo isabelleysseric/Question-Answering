@@ -1,0 +1,1 @@
+This template takes one parameter It produces a citation to various sources in one of two forms As a named reference which can be used inline As a plain citation which can be used in a list 

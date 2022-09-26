@@ -1,0 +1,1 @@
+This template is used to set up categories for establishments for specific years For example to set up The parameters are the year the category is for but with the last digit left off the last digit of the year the category is for the last year of the previous decade the first year of the following decade

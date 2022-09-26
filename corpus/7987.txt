@@ -1,0 +1,1 @@
+ Lisp Scheme and Clojure Many concepts that are used in modern programming languages were first created in Lisp Linked list s are a very important data structure in Lisp The basic concepts behind Lisp are easy to learn Logo Logo is another version of Lisp that was made for children Logo can help young children develop skills and become efficient within the programming language 

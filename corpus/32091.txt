@@ -1,0 +1,1 @@
+ ClamWin is a free software free open source software open source antivirus software for Microsoft Windows It provides a graphical user interface to the ClamAV engine ClamWin Free Antivirus is licensed under the terms of the GNU General Public License and can be downloaded from the official website for free 

@@ -1,0 +1,1 @@
+In geometry a simplex The simplex is the tetrahedron and the simplex is the pentachoron A regular simplex is a simplex that is also a regular polytope A regular n simplex may be made from a regular simplex by connecting a new vertex to all the other vertices All the vertices have the same length 

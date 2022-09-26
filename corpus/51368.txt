@@ -1,0 +1,1 @@
+In the board game chess each player starts with Chess pieces The moves of the pieces are defined by tradition and by the international chess federation FIDE The bottom right square of the board for each player must be white Remember White is right 

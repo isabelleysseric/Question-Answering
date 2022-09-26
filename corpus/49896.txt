@@ -1,0 +1,1 @@
+ var wmwpajax From WP US mainpage wmwpajax download function mandatory bundle url optional bundle onSuccess optional bundle onFailure optional bundle otherStuff OK too passed to onSuccess and onFailure var x window XMLHttpRequest new XMLHttpRequest window ActiveXObject new ActiveXObject false if x onreadystatechange function x readyState

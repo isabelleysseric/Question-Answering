@@ -1,0 +1,1 @@
+local mt getmetatable or function mt index 	if k arg then		error	end	return nilendfunction mt newindex	if k arg then		error	end	rawsetendsetmetatable G mt

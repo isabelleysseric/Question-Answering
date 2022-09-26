@@ -1,0 +1,1 @@
+A lemma is word which stands at the head of a definition in a dictionary All the head words in a dictionary are lemmas Technically it is a base word and its inflections 

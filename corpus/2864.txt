@@ -1,0 +1,1 @@
+ Thermocouple TC for short is a device that converts heat directly into electricity A thermocouple can also work in reverse using an electric current to transform into heat as well as cold 

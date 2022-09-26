@@ -1,0 +1,1 @@
+This template produces the filename of an IPA sound sample It is determined by default from the IPA symbol For example Optionally a non default filename can be entered here so the template will produce that non default filename Also optionally the existence of the file can be checked and an error message can be overridden by a text or a blank 

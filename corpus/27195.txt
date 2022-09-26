@@ -1,0 +1,1 @@
+The robots exclusion standard is a way of telling Web crawler s and other Web robot s which parts of a website Web site they can see To give robots instructions about which pages of a Web site they can access site owners put a text file called file does not exist Web robots assume that they can see all parts of the site 

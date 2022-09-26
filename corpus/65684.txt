@@ -1,0 +1,1 @@
+ function autoEdLinks MAIN FUNCTION describes list of fixes str str replace repair bad external links str str replace str str replace return str source

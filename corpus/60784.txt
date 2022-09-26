@@ -1,0 +1,1 @@
+A number is called a perfect number if by adding all the positive divisor s of the number the result is the number itself is the first perfect number Its divisors are and and equals Other perfect numbers include and 

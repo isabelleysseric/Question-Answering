@@ -1,0 +1,1 @@
+This is the meta template It helps other templates detect what page they are on It uses pattern matching on the pagename See also the extended version That one can reuse the same input on multiple matching patterns 

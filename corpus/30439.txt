@@ -1,0 +1,1 @@
+This box can be used as a module in the Copy the left column into an existing chembox new before the first section and give the section a unigue number en Template Chembox Identifiers includeonly

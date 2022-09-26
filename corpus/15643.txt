@@ -1,0 +1,1 @@
+This is the or talk page message box meta template It is used to build message box templates for talk pages such as etc It offers several different colours uses default images if no image parameter is given and it has some other features This template works similarly to and uses the same parameters 

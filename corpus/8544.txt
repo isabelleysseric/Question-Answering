@@ -1,0 +1,1 @@
+ Snake case space The first letter is usually changed to lowercase Some examples of Snake case would be foo bar or hello world It is commonly used in computer code At least one study found that wikt reader reader s can recognize snake case faster than CamelCase Cite web 

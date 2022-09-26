@@ -1,0 +1,1 @@
+This is the or disambiguation footer message box meta template It is used to build disambiguation boxes such as This template works similarly to and mostly uses the same parameters The main differences are that this box uses the disambiguation style and only has two type settings 

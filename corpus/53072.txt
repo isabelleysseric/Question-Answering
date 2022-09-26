@@ -1,0 +1,1 @@
+ Cryptanalysis is the study of methods for obtaining the meaning of Encryption encrypt ed information without access to the secret information which is normally required to do so Typically this involves finding a secret key In non technical language this is the practice of codebreaking or cracking the code although break can also mean just a part of a complete solution 

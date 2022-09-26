@@ -1,0 +1,1 @@
+This is the template This template is normally only used by the system it is the Wikipedia Editnotice editnotice loader used in MediaWiki It displays the editnotices and the links to them at the top of pages when editing pages 

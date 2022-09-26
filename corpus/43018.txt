@@ -1,0 +1,1 @@
+This template produces metadata dummy if the parameter is in a list of placeholder image names and tags contained in this template It allows suppression of these placeholder images 

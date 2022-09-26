@@ -1,0 +1,1 @@
+ Bogon is an informal name for an Internet Protocol IP packet The areas of unallocated address space are called bogon space For example addresses from x x x x x x have not yet been allocated Bogons are not the same as reserved private address ranges 

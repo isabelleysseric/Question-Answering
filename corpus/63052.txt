@@ -1,0 +1,1 @@
+ is disabled pending a clarification of the new version of criterion of Wikipedia Non free content criteria commenting out code that breaks when violating non free content is removed from many infoboxen Stats noinclude

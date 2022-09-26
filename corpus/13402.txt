@@ -1,0 +1,1 @@
+ Editors beware formatting of code to make it look nice is very likely to inadvertently introduce leading and trailing blank lines into the template output 

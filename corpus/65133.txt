@@ -1,0 +1,1 @@
+User accounts which are more than days old and have made at least changes are given autoconfirmed status by MediaWiki the software This status can only be removed if the user triggers the Wikipedia Change filter change filter s Autoconfirmed status is needed to be able to WP MOVE move pages and change Wikipedia Protection policy semi protected pages 

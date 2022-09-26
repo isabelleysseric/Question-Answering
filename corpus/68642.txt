@@ -1,0 +1,1 @@
+The transpose of a matrix matrix A is what you get when you rewrite the matrix with its rows as columns Vectors can be transposed in the same way We can write the transpose of A using different symbols 

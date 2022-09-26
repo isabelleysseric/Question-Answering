@@ -1,0 +1,1 @@
+ Intermediate System to Intermediate System is a routing routing protocol used in larger office networks and parts of the Internet It efficiently decides how Information data gets from one place to another on a network or the Internet 

@@ -1,0 +1,1 @@
+ The least common multiple of two integer s is the smallest positive integer between all the multiple s of both It is usually denoted by LCM Likewise the LCM of more than two integers is the smallest positive integer that is divisible by each of them The LCM is known in elementary arithmetic as the least common denominator fractions can be added subtracted or compared 

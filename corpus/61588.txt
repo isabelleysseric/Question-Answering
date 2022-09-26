@@ -1,0 +1,1 @@
+ ROT is a very simple form of encryption cipher It is a variant of a Caesar cipher In it the alphabet is written in two lines of characters each Encryption and decryption is done by simply switching the letters that are below each other That way A becomes N B becomes O and so on It is widely used in USENET forums 

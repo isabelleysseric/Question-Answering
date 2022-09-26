@@ -1,0 +1,1 @@
+The template is an IP user talk page template that shows helpful information to IP users and those wishing to warn or ban them It takes two arguments both optional the name of the organization to which the IP address is registered and the hostname It adds pages to 

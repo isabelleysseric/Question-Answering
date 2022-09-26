@@ -1,0 +1,1 @@
+This template is identical to Template Flag except that the flag links to its image description page for pages where the flag is information not just decoration The c in the name refers to clickable 

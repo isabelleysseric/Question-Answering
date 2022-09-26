@@ -1,0 +1,1 @@
+ Fruit Ninja is a video game The game can be played on different platforms such as Xbox and Windows Phone The target of this game is get score by slicing fruit s For the classical mode fruit can t leave the screen without being sliced 

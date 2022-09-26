@@ -1,0 +1,1 @@
+The Schulze method is a way of voting system voting that is used to fill a single position in an election It was developed in by Markus Schulze It is also known as Schwartz Sequential Dropping Beatpath Method Beatpath Winner Path Voting and Path Winner It is used by several organizations including Wikimedia Foundation Wikimedia Debian Gentoo Linux Gentoo and the KDE 

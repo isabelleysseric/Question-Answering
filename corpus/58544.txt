@@ -1,0 +1,1 @@
+Currently there are This function deals with figuring the average articles per GA The only input is GA Number of Good Articles The function automatically uses the most current number of articles The number for GA should not include commas For example use not Commas will be added where they are needed noinclude

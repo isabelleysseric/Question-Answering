@@ -1,0 +1,1 @@
+ Database reports are reports made from querying the database of the Simple English Wiktionary These reports are useful in helping users in cleaning up of the wiki or simply just for interesting statistics To discuss the current reports or suggest new reports please use the talk page 

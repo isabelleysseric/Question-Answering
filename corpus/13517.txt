@@ -1,0 +1,1 @@
+ This template can be used to automatically fill the secondary color used by each respective team in Major League Baseball It can be used in conjunction with Template MLBPrimaryColor noinclude

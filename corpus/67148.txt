@@ -1,0 +1,1 @@
+This is L ist A rticle but is active in main namespace by default Note Given a proper namespace prefix before the pagename las will replicate the links formed by either lts or lcs 

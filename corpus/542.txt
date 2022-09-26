@@ -1,0 +1,1 @@
+ QBasic is a programming language made by Microsoft which was included with Windows and MS DOS QBasic is a more limited version of QuickBasic released in While today considered almost wikt obsolete obsolete it is still a popular language for beginners and especially for education al purposes 

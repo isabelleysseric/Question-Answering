@@ -1,0 +1,1 @@
+You can format your text using wiki markup This has normal characters like asterisks single quotes or equation marks which have a special function in the wiki sometimes depending on their position For example to format a word in italic you put it in two single quotes like 

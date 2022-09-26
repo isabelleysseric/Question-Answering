@@ -1,0 +1,1 @@
+ BASIC is one of the first programming languages ever to be created It was first used as a programming language on console computer s The name is an acronym that spells B eginner s A ll purpose S ymbolic I nstruction C ode A specialized version of Basic is Bliz basic It is specially for coding games 

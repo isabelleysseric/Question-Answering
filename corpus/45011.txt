@@ -1,0 +1,1 @@
+ Pidgin protocols which will let the user log into different instant messaging services from one program The number of Pidgin users is thought to be more than million in Released under the terms of the GNU General Public License Pidgin is free software 

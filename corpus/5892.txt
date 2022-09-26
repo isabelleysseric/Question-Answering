@@ -1,0 +1,1 @@
+ Direct memory access is a technology used in Computer s and microprocessor s With it certain hardware components can use parts of the RAM main memory for their applications without the need to ask the CPU The CPU will request data from memory once and the DMA will continue to fetch the data freeing the CPU to do other work This way the CPU does not have to request every byte 

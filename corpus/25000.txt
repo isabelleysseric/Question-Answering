@@ -1,0 +1,1 @@
+ Mibbit is an online IRC client that is free of charge It was made in JavaScript and Ajax Ajax Mibbit was originally released in and was updated in It can be embedded into a website easily 

@@ -1,0 +1,1 @@
+ do not use the template before inputting in IPAsym Formatting from decimal codes Using named input a b c d to prevent spaces in input sticking with numbers noinclude

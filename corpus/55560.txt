@@ -1,0 +1,1 @@
+A spherical coordinate system uses three numbers to identify a point in space Usually two angle s and a distance from the origin of the coordinate system If the point lies on the sphere only the two angles are needed because the distance from the origin is known 

@@ -1,0 +1,1 @@
+ optional icon included by default optional verbatim message not included by default cite encyclopedia wrapper title must be be specified either with a title url pair or wstitle to link to the article in wikisource year will default to if not set cite encyclopaedia noinclude

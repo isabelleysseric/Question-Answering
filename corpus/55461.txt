@@ -1,0 +1,1 @@
+In computer science ZISC stands for Zero Instruction Set Computer which refers to a Integrated circuit chip technology based on pure pattern matching and absence of Micro operation micro instructions The name ZISC was derived from RISC 

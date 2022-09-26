@@ -1,0 +1,1 @@
+ Simple Network Management Protocol Management FrameworksSNMP exposes management data in the form of variables on the managed systems which describe the system configuration These variables can then be queried by managing applications 

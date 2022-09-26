@@ -1,0 +1,1 @@
+This is the container category for Wikipedia s various cleanup related categories These categories contain menial tasks that can be usually be handled en masse by Wikipedia Bots bots or extremely bored editors with en Wikipedia AutoWikiBrowser auto editing software 

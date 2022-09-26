@@ -1,0 +1,1 @@
+A level set of a function function is the set of all the points where the function has a given value This is a special application of a scalar field math stub 

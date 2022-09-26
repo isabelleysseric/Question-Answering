@@ -1,0 +1,1 @@
+ Flag semaphore is a system of spreading information at a distance by using two flag s Information is told by the position s of the flags Each set of positions has a meaning 

@@ -1,0 +1,1 @@
+A chemical database is a database specifically designed to store chemical information This information is about chemical and crystal structures spectra reactions and syntheses and thermophysical data 

@@ -1,0 +1,1 @@
+In Logic the existence quantifier is a Logical quantifier quantifier that says that there is at least one element in the universe of discourse where the following proposition is true The existence quantifier is commonly written as a mirrored E 

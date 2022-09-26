@@ -1,0 +1,1 @@
+ Windows To Go is a feature in Windows and later that allows the entire system to run from a USB flash drive or external Hard disk drive External removable drives USB Hard Drive In September Microsoft officially announced Windows To Go at the Build Conference and gave out bootable USB Flash drives These could hold GB of information They also had Windows To Go pre installed 

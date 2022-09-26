@@ -1,0 +1,1 @@
+ Purpose Given a plain text date returns the year accepts ISO a variety of date formats as well as year only specification of date Limitations does understand BC AD and may not deliver accurate results for single digit dates noinclude

@@ -1,0 +1,1 @@
+ Google Chrome is an open source web browser made by Google It builds on parts from other open source software including WebKit and Mozilla The name comes from the graphical user interface frame or chrome of web browsers The open source project behind Google Chrome is known as Chromium The first version was a beta for Microsoft Windows was released on September in languages 

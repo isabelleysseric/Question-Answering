@@ -1,0 +1,1 @@
+ Bersirc is an IRC client that is written in C C It was first made in The newest or latest version of Bersirc is and was made in The client is free to use Bersirc is software license licensed under the LGPL 

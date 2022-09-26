@@ -1,0 +1,1 @@
+This template allows to easily use Special Prefixindex which is a Help Special page special page listing all Wikipedia s pages of a given namespace and beginning with a given prefix Using this template will generate a link to this special page listing all Wikipedia s articles beginning with the given parameter and will display the text All pages beginning with 

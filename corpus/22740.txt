@@ -1,0 +1,1 @@
+The Network News Transfer Protocol is a computer protocol that was used to create groups that could exchange news articles between people It is not in very common usage now but was commonly used in the late s and s Many internet service provider s still provide a NNTP server for their customers and commerical Usenet services exist 

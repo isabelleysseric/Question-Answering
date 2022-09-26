@@ -1,0 +1,1 @@
+ NOTOC This is the template This meta template helps other templates such as infoboxes to take image size parameters in both of the forms or px It takes up to three parameters and returns the first one that has any content That is the first one that is defined and not empty Thus a default value for the width of the image can be fed as the second or third parameter 

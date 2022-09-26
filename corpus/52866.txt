@@ -1,0 +1,1 @@
+ LinuxLive USB Creator is a free software for Microsoft Windows Windows that allows users to create bootable Live USB systems for many Linux distribution s This software is designed to be as easy to use as possible Its graphical interface uses a step by step approach and some traffic lights indicates to the user if each mandatory steps are validated 

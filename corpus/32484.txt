@@ -1,0 +1,1 @@
+ Miranda is a functional programming Programming language language which was started in the s Unlike other functional programming languages the focus lay on usabliity for production systems It was not seen as a tool to teach functional programming Miranda influenced other programming languages such as Haskell Haskell but is no longer used widely 

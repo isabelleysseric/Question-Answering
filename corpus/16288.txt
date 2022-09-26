@@ -1,0 +1,1 @@
+ png png png png png documentation content This subtemplate is used by to generate the local collapsed municipality map It should not be used directly noinclude

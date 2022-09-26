@@ -1,0 +1,1 @@
+This has been incorporated into a project to re implement the user lists of Wikipedia Wikipedians into a set of Categories Please see Wikipedia User categorisation for more details This Wikipedia Category category is a self reference 

@@ -1,0 +1,1 @@
+This page explains the image syntax when editing the wiki Before using images in your page your wiki must have file uploads enabled and you have to Help Managing files upload a file TOC Image Example jpg Image Example jpg Sunflowers Media Example jpg Media Example jpg Sunflowers 

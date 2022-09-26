@@ -1,0 +1,1 @@
+ Graph theory is a field of math ematics about graphs A graph is an abstract representation of a number of point and the lines are called edges Graphs are a tool for modelling relationships They are used to find answers to a number of problems Some of these questions are 

@@ -1,0 +1,1 @@
+This is the template It lists a number of tools to help investigate a user IP It is used in MediaWiki Anontalkpagetext and MediaWiki Sp contributions footer anon to link to these external sources with the user s IP as a parameter 

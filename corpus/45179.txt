@@ -1,0 +1,1 @@
+ Dependency has a number of meanings In project management a dependency dependency is a link amongst a project s terminal element s In computer science Coupling dependency is a state in which one object uses the functions of another object disambig 

@@ -1,0 +1,1 @@
+A premise is a statement which an argument claims will justify a wikt conclusion conclusion The proof of a conclusion depends on both the truth of the premises and the validity of the argument 

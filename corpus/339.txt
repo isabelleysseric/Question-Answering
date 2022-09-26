@@ -1,0 +1,1 @@
+ NOTOC is for use in the table at List of potentially habitable exoplanets It provides an automatic cell background color calculation to visually depict each planetary habitability measure Default values are the worst possible It is possible to supply a range for ESI by passing parameter esi includeonly

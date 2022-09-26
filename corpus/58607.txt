@@ -1,0 +1,1 @@
+ HelenOS is an operating system It is made by staff and students of the Mathematical and Physical Faculty of Charles University in Prague It is running on some architectures 

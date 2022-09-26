@@ -1,0 +1,1 @@
+A word is a fixed sized piece of data handled as a unit by the instruction set or the hardware of the processor The number of bit s in a word is an important characteristic of any specific processor design or computer architecture 

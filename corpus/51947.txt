@@ -1,0 +1,1 @@
+This is the template This template is used inside other templates It takes up to four parameters and returns the first one that is defined and non empty otherwise nothing Typical usage is like this This returns the first of the parameters logo and image that is defined and non empty otherwise default svg 

@@ -1,0 +1,1 @@
+The Central Time Zone subtracts six hours from Coordinated Universal Time UTC during standard time This time zone is called Central Standard Time The zone is one hour ahead of the Mountain Time Zone and one hour behind the Eastern Time Zone Eastern Time Zone 

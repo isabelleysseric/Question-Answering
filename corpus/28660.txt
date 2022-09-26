@@ -1,0 +1,1 @@
+ GNU Anubis is an outgoing mail processor It goes between the E mail client Mail User Agent and can perform various sorts of processing and conversion on the outgoing mail in accord with the sender s specified rules based on a configurable regular expressions system It operates as a proxy server independently from mail user agents 

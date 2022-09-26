@@ -1,0 +1,1 @@
+A collision occurs when two objects come in contact with each other All collisions have the same momentum before and after a collision Examples of collisions include car crashes bouncing a ball and playing pool Collisions are made from two smaller sections called elastic and inelastic collisions 

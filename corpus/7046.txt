@@ -1,0 +1,1 @@
+This template links an image to a page other than its image description page It has been updated to avoid the accessibility problems caused by an earlier version 

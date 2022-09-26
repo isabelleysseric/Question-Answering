@@ -1,0 +1,1 @@
+ Tetration is the hyperoperation which comes after exponentiation List of first natural number hyperoperations Addition a succeeded n times Multiplication a added to itself n times Exponentiation a multiplied by itself n times Tetration Note n a exponentiated by itself n times The above example is read as the nth tetration of a 

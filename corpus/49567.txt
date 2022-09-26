@@ -1,0 +1,1 @@
+ FreeBSD is an operating system for many different kinds of computers This means that if the user has a computer around the house and want to run FreeBSD on it the user probably can Computers that run Microsoft Windows will also run FreeBSD It is based on BSD the version of UNIX developed at the University of California Berkeley 

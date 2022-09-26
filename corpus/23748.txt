@@ -1,0 +1,1 @@
+ Help Template Templates are a very powerful feature of MediaWiki but mistakes can be easily made even by experienced users Complex templates should therefore be accompanied by Sandbox sandboxes and test case s to prevent bugs 

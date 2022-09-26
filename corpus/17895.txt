@@ -1,0 +1,1 @@
+This template is part of a series of MMA event templates to make it easier to record the results of a MMA event This particular template is used to record the result a single bout within an event Multiple bout template can be used to record all bouts for a specific event card 

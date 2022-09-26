@@ -1,0 +1,1 @@
+ SKU is an acronym for Stock Keeping Unit This is the barcode found on things sold in stores It is made in a way that laser scanner s in the check out lane can read the code The code is then used to find the price 

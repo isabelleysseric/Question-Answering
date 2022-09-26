@@ -1,0 +1,1 @@
+In mathematics two integer s if they share no common factors In other words there is no number other than that divides both a and b evenly The HCF of these numbers should be As an example and are coprime because the factors of and do not divide evenly and are not coprime because divides both and Another example is and Likewise and 

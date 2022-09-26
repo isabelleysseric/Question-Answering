@@ -1,0 +1,1 @@
+ Dynamic link library Any of the Microsoft Windows data computer file files having the same file format as that of the Dynamic link library can be called a resource DLL Examples of such DLLs include Icon icon libraries sometimes having the extension 

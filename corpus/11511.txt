@@ -1,0 +1,1 @@
+ JavaServer Pages is a programming language used by server computer software application s It was created by Sun Microsystems A software server such as Apache HTTP Server Apache is needed to run it 

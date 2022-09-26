@@ -1,0 +1,1 @@
+This template provides a table format for listing airlines and their destinations in airport articles This provides a uniform display across all articles 

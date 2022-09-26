@@ -1,0 +1,1 @@
+The templates in this series are made to be used in a Help Table table to make a cell with text in that cell with a colored background They are sometimes used in comparison tables For example Other table attributes such as between the attribute and the template 

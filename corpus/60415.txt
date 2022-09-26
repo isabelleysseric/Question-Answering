@@ -1,0 +1,1 @@
+ div class barstyle font size background color border style none position absolute text align center margin top expr height expr margin left width div class nudge style font size position relative top em left em span style position relative font size vertical align middle bottom expr noinclude

@@ -1,0 +1,1 @@
+In mathematics and systems theory a linear system is one that can be described with linear mapping s alone Most systems found in nature don t have this property they are called non linear 

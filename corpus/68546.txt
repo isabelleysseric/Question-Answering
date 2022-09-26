@@ -1,0 +1,1 @@
+ can protect pages to stop them from being changed They can also unprotect pages There are five types of protection full protection semi protection move protection cascading protection and create protection 

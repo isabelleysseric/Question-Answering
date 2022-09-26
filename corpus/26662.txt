@@ -1,0 +1,1 @@
+ ILOVEYOU was a computer worm that first appeared on May Most of the files on the computer would be replaced by the worm Depending on what version was run the payload would be different because the worm could be changed so easily The worm was written in Visual Basic and used Microsoft Outlook to spread It infected over million computers and caused billion in damages 

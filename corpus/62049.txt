@@ -1,0 +1,1 @@
+This template can be used to display the HTML thin space character entity If a parameter is supplied it will return that parameter prefixed and suffixed by a thin space 

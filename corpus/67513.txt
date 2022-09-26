@@ -1,0 +1,1 @@
+requirelocal p local getArgs require getArgslocal function round	local pow 	return math floor powendfunction p getMapParams	if not map then		error	end	local moduletitle mw title new	if not moduletitle then		error	elseif moduletitle exists then		local mapData mw loadData		return function			if name 

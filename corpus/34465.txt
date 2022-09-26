@@ -1,0 +1,1 @@
+The Hash function is a function When a computer program is written very often large amounts of Information data need to be stored These are normally stored in Table 

@@ -1,0 +1,1 @@
+A package management system keeps track of information about software packages what files go where and which package owns that file therefore behaving like a phone directory Examples of package management systems for Linux include dpkg rpm and Portage emerge In Microsoft Windows Add Remove Programs Programs and Features are like package managers but use no format 

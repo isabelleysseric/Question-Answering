@@ -1,0 +1,1 @@
+ This is the standard Wikipedia Manual of Style infobox for an entry in the Eurovision Song Contest The box to the right is an example You can click on edit this page and copy and paste the markup to a different article replacing its information with info on the country and year you choose to write about 

@@ -1,0 +1,1 @@
+Categories are pages that are used to group other pages on similar subjects together This is done to help users find the pages they are looking for even if they do not know whether it exists or what it is called Every page should belong to at least one category A page may often be in several categories However putting a page in too many categories may not be useful 

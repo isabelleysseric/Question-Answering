@@ -1,0 +1,1 @@
+A Race condition is a problem with the design of a system With a race condition the result of a calculation or the behaviour of the system as a whole is dependent on how long a certain calculation takes or when it is started Race conditions occur in logic circuit s and software computer software especially with multi threaded or distributed system s 

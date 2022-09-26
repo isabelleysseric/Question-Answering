@@ -1,0 +1,1 @@
+ Multitasking is a feature available on iOS that allows multiple mobile app applications to run and perform tasks at the same time It is available in iOS or later Multitasking was first released in June with the release of iOS 

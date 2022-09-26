@@ -1,0 +1,1 @@
+The accumulator is the register for storing results of operations inside the CPU Accumulator s name or representation depend upon CPU architecture and manufacturer for example in intel x architecture accumulator s name is AX in bits or EAX in bits mode An accumulator is manipulated by machine code or assembly for example assembly code add ax add in accumulator register 

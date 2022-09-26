@@ -1,0 +1,1 @@
+This is a meta template used for creating interwiki links to other Wikipedia Wikimedia sister projects sister projects of Wikipedia Note that links to other language Wikipedias should not use links in this form instead use interwiki links to add them to the sidebar 

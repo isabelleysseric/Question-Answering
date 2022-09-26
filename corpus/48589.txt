@@ -1,0 +1,1 @@
+ expr floor expr Gregorian serial date month day year Gregorian serial date month day year documentation content This template returns the number of weeks that have elapsed between two dates If the second set of parameters is not included it will automatically calculate the days between a given date and today To use type noinclude

@@ -1,0 +1,1 @@
+ First normal form tables Within a table that is in first normal form each row has columns that are each represent one thing and contain one element Additionally there are no repeated columns in the table First normal form is a minimum criterion of database normalization 

@@ -1,0 +1,1 @@
+ Zenwalk or Zenwalk Linux is a Linux distribution started by Jean Philippe Guillemin It was at first based on Slackware Since its creation the distribution has become very different from Slackware while still still being able to use its binary packages Zenwalk aims to be a Linux distribution with many uses by focusing on Internet applications multimedia and programming tools 

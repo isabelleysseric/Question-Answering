@@ -1,0 +1,1 @@
+This is a temporary fork of which provides an option for up to three attributes per row in addition to a label data x a data x b and data x c Rows with more than one data item also have the additional multidatastyle attribute applied which can be used to reduce line height et cetera en Template Infoboxcols includeonly

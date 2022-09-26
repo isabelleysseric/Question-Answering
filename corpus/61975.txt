@@ -1,0 +1,1 @@
+This is a subtemplate of It displays small numbers using scientific notation It takes three parameters the number to be displayed the precision to which it is to be displayed to the order of magnitudeIt calls with as parameters the significand and the number of decimals of the significand to be displayed to add trailing zeros It s also used by 

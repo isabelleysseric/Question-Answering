@@ -1,0 +1,1 @@
+The fundamental theorem of calculus is central to the study of calculus It is the theorem that shows the relationship between the derivative and the integral and between the definite integral and the indefinite integral It is broken into two parts the first fundamental theorem of calculus and the second fundamental theorem of calculus 

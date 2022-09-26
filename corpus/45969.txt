@@ -1,0 +1,1 @@
+In cryptography a permutation box across Substitution box S boxes inputs maintaining Confusion and diffusion diffusion while Transpose transposing cite paper In block cipher s the S boxes and P Boxes are used to make the relation between the plaintext and the ciphertext difficult to understand 

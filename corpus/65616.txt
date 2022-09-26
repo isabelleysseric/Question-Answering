@@ -1,0 +1,1 @@
+ function autoEdUnicodeControlChars MAIN FUNCTION describes list of fixes Removes unneeded Unicode control characters str str replace return str source

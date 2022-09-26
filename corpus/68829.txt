@@ -1,0 +1,1 @@
+A favicon is small image that is used to identify a website or webpage This type of icon is usually only pixels in height and pixels in width And when a favicon is included in a webpage it can be seen next to a browser s address bar inside a browser s tab or in the browser s Favorites or Bookmarks list 

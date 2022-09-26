@@ -1,0 +1,1 @@
+This template embeds COinS metadata in the HTML output allowing reference management software to retrieve bibliographic metadata see Wikipedia COinS Be careful using templates within the citation template as many will add a lot of extraneous HTML or CSS that will be rendered in the meta data Known templates that should not be used noinclude

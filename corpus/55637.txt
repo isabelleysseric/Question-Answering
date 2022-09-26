@@ -1,0 +1,1 @@
+A disk buffer is a small amount of computer memory memory on a hard drive Sometimes it is also called cache buffer or disk cache but these words should not be used a disk buffer is not a cache In early hard disks usually have between and megabyte s of such memory 

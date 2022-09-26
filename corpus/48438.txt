@@ -1,0 +1,1 @@
+A wavelength is the length of the shortest repeat ing part of a sine wave All wave s can be formed by adding up sine waves That is every wave is a total of sine waves which may be identified by Fourier analysis 

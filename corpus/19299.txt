@@ -1,0 +1,1 @@
+This template produces a Wikipedia Navigation templates navigation template that has groups of relevant articles on a certain topic All groups are hidden by default However with a parameter call an individual group can be shown that has the other articles in the same group 

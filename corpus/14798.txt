@@ -1,0 +1,1 @@
+To use this template add the following The field RATING refers to its rating out of in decimals This will render it at an appropriate size for an infobox For example entering See also noinclude

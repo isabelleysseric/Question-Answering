@@ -1,0 +1,1 @@
+In computing the Post Office Protocol version are the two most widely accepted Internet standard protocols for e mail retrieval Almost all modern e mail clients and servers support both 

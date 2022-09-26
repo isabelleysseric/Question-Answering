@@ -1,0 +1,1 @@
+A twin prime is a pair of prime number s where one prime is two bigger than the other The smallest pair of twin primes is and Next comes and Then comes and and then and 

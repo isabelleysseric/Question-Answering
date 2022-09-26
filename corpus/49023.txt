@@ -1,0 +1,1 @@
+ ATTENTION EDITORS Do NOT include service specific commands on this list THEY WILL BE REMOVED This is a list of all Internet Relay Chat commands from IETF Request for Comments RFC s and Most IRC clients need commands to have a slash are optional and override the command s defaults 

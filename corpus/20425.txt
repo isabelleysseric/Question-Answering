@@ -1,0 +1,1 @@
+ Self Monitoring Analysis and Reporting Technology or S M A R T is a system to watch computer hard disk s to help stop the risk of failure s It does this by watching of the hard disks to try and see when a failure might happen and where 

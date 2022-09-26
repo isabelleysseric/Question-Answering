@@ -1,0 +1,1 @@
+ class wikitable style float right margin left px width px Serial Attached SCSI but SAS drives can not be connected to SATA backplanes The SAS protocol is developed and maintained by the T technical committee of the International Committee for Information Technology Standards 

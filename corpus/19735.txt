@@ -1,0 +1,1 @@
+ child yes title DVD release label Region data label data label data label data child yes title Blu ray Disc release label Region A data label data label data style width background color transparent text align center font size line height em vertical align top noinclude

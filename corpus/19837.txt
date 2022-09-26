@@ -1,0 +1,1 @@
+A Wikipedia gadget is a JavaScript user script that can be enabled simply by checking an option in your Wikipedia Special Preferences settings Installed gadgets are also listed on Special Gadgets 

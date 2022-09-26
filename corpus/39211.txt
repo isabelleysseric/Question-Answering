@@ -1,0 +1,1 @@
+The spectrum of a ring is a thing studied in the branch of mathematics called algebraic geometry This construction allows us to think of abstract mathematical objects as functions acting over some geometric space In this case the most natural geometric space is called the spectrum of the ring 

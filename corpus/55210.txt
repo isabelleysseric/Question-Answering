@@ -1,0 +1,1 @@
+ is the name for incorrect unreadable characters shown when computer software fails to show text correctly When problems like these appear the reason is that when transferring text on the internet it is actually sent as numbers is 

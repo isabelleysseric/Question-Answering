@@ -1,0 +1,1 @@
+ from editing Wikipedia Since the web host acts like a WP PROXY proxy because it hides your IP address it has been blocked To prevent abuse Wikipedia Blocking policy Open or anonymous proxies these IPs may be blocked from editing Wikipedia If you do not believe you are using a web host and think this block is unfair you can ask to be unblocked by adding noinclude

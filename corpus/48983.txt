@@ -1,0 +1,1 @@
+An ORCID is a code to identify someone who writes academic articles ORCID stands for Open Researcher and Contributor ID ORCIDs usually have four groups of four numbers An example of a person with an ORCID is John Wilbanks His ORCID is Sometimes an ORCID has an X instead of a number at the end An example of this is Nick Jennings is a check digit 

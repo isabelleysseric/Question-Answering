@@ -1,0 +1,1 @@
+ Windows CE kernel It is not a trimmed down version of desktop MS Windows Windows It is not Windows XP editions Windows XP Embedded which is Windows NT NT based The Zune portable media player as well as the Windows Mobile and Windows Phone Windows Phone smartphone platforms are based on Windows CE 

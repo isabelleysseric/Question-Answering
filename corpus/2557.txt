@@ -1,0 +1,1 @@
+ Rayleigh scattering is the way that light Mie scattering scatter s when it hits a very small object The theory is good if the wavelength of light is much bigger than the object It is named after Lord Rayleigh and it also mainly discovered by Raman as through Raman scattering 

@@ -1,0 +1,1 @@
+This is a template used within the main tepmayes from the This template only includes the Geobox template with filled in data from the Pagename Geobox page and displays a link below that enables easy editing from the main page Usage just input at the beginning of the main page Or preferably noinclude

@@ -1,0 +1,1 @@
+ exit in computing means to wikt terminate terminate a Task multithreading environment means that a thread of execution has stopped running The operating system reclaims Computer data storage memory that was used by the process The process is said to be a dead process after it terminates 

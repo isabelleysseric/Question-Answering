@@ -1,0 +1,1 @@
+ Structured Query Language is a language used to view or change data in database s The sentences used in this language are called SQL Queries If we want to add data to the database in a computer or to remove data from the database or to just view the data in the database we can use SQL Queries 

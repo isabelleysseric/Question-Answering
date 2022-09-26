@@ -1,0 +1,1 @@
+local p local specialParams 	 N template name Deprecated but keeping until it is removed from transcluding templates	 B template content p function 	if not frame getParent then		error	end	if not frame args B then		error	end 	if mw isSubsting then		 substing		 Combine passed args with passed defaults		local args 		for k v in pairs do			if not specialParams k then				if v 

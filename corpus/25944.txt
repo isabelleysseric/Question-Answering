@@ -1,0 +1,1 @@
+The essence of the Brachistochrone curve is that given two points in space this curve will transport a object with mass from the first point to the second along a frictionless ramp given no friction in the shortest amount of time The problem can be solved with the tools from the calculus of variations and optimal control 

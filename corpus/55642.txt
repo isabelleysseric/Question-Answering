@@ -1,0 +1,1 @@
+This template is intended as a metatemplate for sidebar templates in the same spirit as for navbox templates adds collapsibility to a Sidebar s sections i e the means to show or hide sections by clicking links beside their headings 

@@ -1,0 +1,1 @@
+ Logs Filter Allows regex based filtering of Special Log While this originally was intended for areas such as Special Log rights it now allows filtering of almost any page that has on it

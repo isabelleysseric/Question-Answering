@@ -1,0 +1,1 @@
+This template produces a navigational box for a century as illustrated for Optional parametersBy default the navigational box will float to the right of the page This behaviour can be altered using 

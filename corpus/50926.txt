@@ -1,0 +1,1 @@
+The User Datagram Protocol network without requiring other communications to set up special transmission channels or data paths UDP is sometimes called the Universal Datagram Protocol The protocol was designed by David P Reed in and formally defined in RFC 

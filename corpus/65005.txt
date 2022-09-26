@@ -1,0 +1,1 @@
+Display a month calendar This template assembles the right parameters for use by Template Month This makes Template Month easier to use than Month The separate templates saves calculations 

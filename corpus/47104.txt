@@ -1,0 +1,1 @@
+ Function allowing for consistent treatment of boolean like wikitext input It works similarly to the template return function 	 If your wiki uses non ascii characters for any of yes no etc you	 should replace val lower in the	 following line 	val type 

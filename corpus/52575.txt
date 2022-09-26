@@ -1,0 +1,1 @@
+This template is useful for creating links to en Help Diff diffs that is links to pages that show the differences between two versions of a wiki page Every historical version of a page has a revision ID which you can find from the Help Page history history of the page Given a page name and one or two revision IDs you can construct links to several types of diffs 

@@ -1,0 +1,1 @@
+background transparent border solid px lightgray border left none border right none padding em padding top px padding bottom px color gray margin em noinclude

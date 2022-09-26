@@ -1,0 +1,1 @@
+The HUGO Gene Nomenclature Committee Traditional gene names and abbreviations are often not specific for a single gene Example CAP Unlike traditional names like CAP the HGNC short gene names or gene symbols are given to one gene only This reduces confusion as to which gene is referred to 

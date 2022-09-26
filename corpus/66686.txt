@@ -1,0 +1,1 @@
+ Orthogonal Frequency Division Multiplexing is a technology related to Frequency Division Multiplexing With it many different signal s can be sent over the same medium at the same time Each signal uses a different basis function By using the basis function given the sender and recipient will then see their signal better the other signals will be clearly separated 

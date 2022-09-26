@@ -1,0 +1,1 @@
+This template does nothing More exactly it outputs the null string It s useful for programming advanced templates It often is used within a template to the right of an equals sign 

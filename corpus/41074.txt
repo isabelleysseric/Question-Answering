@@ -1,0 +1,1 @@
+ CamelCase compound words or phrases so that each next word or abbreviation begins with a capitalization capital letter CamelCase usually starts with a capital When used in a programming language it usually starts with a lowercase letter Common examples are PowerPoint or iPhone 

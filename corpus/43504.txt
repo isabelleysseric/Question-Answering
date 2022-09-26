@@ -1,0 +1,1 @@
+This tag is used on a link that needs to be improved because it goes to a Wikipedia Disambiguation disambiguation page The tag is intended to be used only when an editor has tried to fix the link but not succeeded Most links to disambiguation pages do not need this tag The tag automatically places the article into 

@@ -1,0 +1,1 @@
+A differential equation is a mathematical equation that involves variables like x or y as well as the rate at which those variables change Differential equations are special because the solution of a differential equation is itself a function function instead of a number 

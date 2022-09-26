@@ -1,0 +1,1 @@
+ Security Enhanced Linux in the Linux kernel It is not a Linux distribution but rather a group of changes that can be used on Unix like operating system s such as Linux and BSD 

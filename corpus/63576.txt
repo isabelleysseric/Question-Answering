@@ -1,0 +1,1 @@
+ Network Functions Virtualization is a computer communication technology that proposes to substitute specialized network Computer hardware hardware with Computer software software running on regular computers or cloud computing cloud It aims to reduce costs and complexity in network communication networks while facilitating faster creation of new communication services 

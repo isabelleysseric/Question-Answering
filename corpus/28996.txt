@@ -1,0 +1,1 @@
+This is the message box It should be added to the top of the documentation for the most used templates This should be included for templates used on pages or more For templates used on pages consider using gentler template Note It is normal that some of the links in the message box are red 

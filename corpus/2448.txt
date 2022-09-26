@@ -1,0 +1,1 @@
+This template is a shortcut for producing columns using CSS It generates the CSS for various browsers Supported browsers are the current versions of Firefox Safari and Chrome 

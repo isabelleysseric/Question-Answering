@@ -1,0 +1,1 @@
+ Dear Twinkler You have been directed here because you are using an old version of the WP Twinkle Twinkle scripts A new version for SEWP has been available since September and brings many improvements whereas the old version is no longer maintained and has become more and more outdated and broken For that reason the old scripts have now been deactivated 

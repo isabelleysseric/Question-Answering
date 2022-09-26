@@ -1,0 +1,1 @@
+This subtemplate generates the default width for It is called by a parent template and should not usually be used directly The template returns a default result of 

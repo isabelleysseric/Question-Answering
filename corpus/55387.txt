@@ -1,0 +1,1 @@
+Adds zeros to the end of new until it is the same as the negative original without its sign Used with functions that have done new abs and lost precision Example 

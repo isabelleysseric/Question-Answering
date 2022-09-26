@@ -1,0 +1,1 @@
+In computer science a lookup table is a data structure usually an array or associative array used to replace a runtime computation items in an array Table 

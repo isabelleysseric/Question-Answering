@@ -1,0 +1,1 @@
+ Fast chess is similar to a normal game of chess but played at a faster than usual rate The player who runs out of time first loses the match Fast chess versions always played with a chess clock 

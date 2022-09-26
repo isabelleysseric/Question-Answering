@@ -1,0 +1,1 @@
+Used to sign anonymous unsigned comments as no User page should exist for anonymous IPs This template is similar to but with the arguments reversed for easier copying from the edit history 

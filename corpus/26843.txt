@@ -1,0 +1,1 @@
+ style background efe border px groove padding px width barnstar documentation usage To change the image of the barnstar use the img variable to add a name use the name variable You can find more barnstars at WP BARN and at Commons noinclude

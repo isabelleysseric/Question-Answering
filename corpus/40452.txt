@@ -1,0 +1,1 @@
+ This is the sample template The actual template that gets substed or transcluded can go here without the square brackets but it may clutter up the display of the template noinclude

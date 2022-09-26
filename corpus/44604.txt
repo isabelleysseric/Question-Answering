@@ -1,0 +1,1 @@
+It is a law of mechanics and physics by Robert Hooke This theory of elastic elasticity says the extension of a spring is proportional to the load applied to it Many materials obey this law as long as the load does not exceed the material s elastic limit Materials for which Hooke s law is useful are known as elastic linear elastic or Hookean materials 

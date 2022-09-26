@@ -1,0 +1,1 @@
+In telecommunication s Forward error correction is a special code The sender adds parts of the Information data again This is called redundancy The receiver is then able to detect certain errors that came from the sending the data In certain cases the receiver can correct the error without the need for a retransmission 

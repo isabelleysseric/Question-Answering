@@ -1,0 +1,1 @@
+An elastic collision is when two objects collide and bounce back with little or no deformation For example two rubber balls bouncing together would be elastic Two cars hitting each other would be inelastic as the cars crumple and do not bounce back In a perfectly elastic collision The other rule to remember when working with elastic collisions is that momentum is conserved 

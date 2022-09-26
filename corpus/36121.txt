@@ -1,0 +1,1 @@
+This category tracks pages that have had the mw Help Magic words behaviour switch added to them so that they do not show up in web search engines such as Google This category is added automatically by the MediaWiki software The category name is defined in MediaWiki Noindex category 

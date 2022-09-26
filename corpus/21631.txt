@@ -1,0 +1,1 @@
+This template is for use on categories related to births by decade BC To add this template to for example The parameters are All the digits of the decade except the last The next to last digit of the decade The century BC the decade is in as an ordinal number 

@@ -1,0 +1,1 @@
+This is the or other pages message box meta template It is used to build message box templates for pages of the types User Wikipedia MediaWiki Template Help Portal and any new future namespaces 

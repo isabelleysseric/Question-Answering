@@ -1,0 +1,1 @@
+ Enlightenment is a free software open source window manager for the X Window System It can be used alone or together with a desktop environment such as GNOME or KDE Enlightenment is sometimes used as a replacement for a full desktop environment 

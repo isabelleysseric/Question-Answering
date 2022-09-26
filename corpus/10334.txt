@@ -1,0 +1,1 @@
+This is an auxiliary Help Template template that allows one to encode delimiter for a Wikipedia Wikitable wiki table has to be escaped by a template if it is used within a template 

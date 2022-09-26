@@ -1,0 +1,1 @@
+ Coding theory is the study of properties of codes and how good they are for a use in the real world Codes are used for data compression and error correction Codes are studied by different scientific disciplines for designing data transmission methods that are efficient and reliable tech stub 

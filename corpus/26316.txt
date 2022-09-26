@@ -1,0 +1,1 @@
+A Denial of Service attack is when someone tries to stop someone else from viewing parts of the internet People who have slower internet connections such as dial up are affected more by attacks 

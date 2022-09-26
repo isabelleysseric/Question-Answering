@@ -1,0 +1,1 @@
+ Text to speech is the use of software to create an audio output in the form of a spoken voice The program that is used by programs to change text on the page to an audio output of the spoken voice is normally a text to speech engine TTS engines are needed for an audio output of machine translation results 

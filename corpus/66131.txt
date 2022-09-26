@@ -1,0 +1,1 @@
+A deterministic algorithm is a computer science term Functions are deterministic when if you never change what you give it never changes either and you can do this as many times as you want 

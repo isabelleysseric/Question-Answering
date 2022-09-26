@@ -1,0 +1,1 @@
+This template is used to show that templates have been converted to Lua Lua It is placed at the top of the template s doc page It automatically adds the template to 

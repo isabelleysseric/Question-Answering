@@ -1,0 +1,1 @@
+A kill screen is a screen that prevents progress from the player The screens in some games stop the game with gibberish or otherwise impossible figures In Pac Man at a certain level the screen overflows and spreads fruits and ghosts across the arcade machine s screen 

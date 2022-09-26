@@ -1,0 +1,1 @@
+ Freespire is a Linux distribution made with parts from Ubuntu It was made to make using free software easy while giving the choice to use non free commercial Linux distribution is made from Freespire 

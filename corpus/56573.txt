@@ -1,0 +1,1 @@
+By default sets of fields are terminated with a period this can be an issue when the last field in an abbreviation or initial with a period as two periods then display The only solution is to not include the last period in the value for the set of fields noinclude

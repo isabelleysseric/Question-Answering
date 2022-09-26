@@ -1,0 +1,1 @@
+ Hilbert s tenth problem is a problem in mathematics that is named after David Hilbert who included it in Hilbert s problems as a very significant problem in mathematics It has to do with finding an algorithm that can solve any Diophantine equation s It has been proved that such an algorithm does not exist 

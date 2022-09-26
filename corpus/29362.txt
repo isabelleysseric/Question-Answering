@@ -1,0 +1,1 @@
+A markup language is a computer language It is made up of a set of instructions and of Information data It is not the same as a programming language as only programming languages can have if statement s and other conditional statement s to get the same symbol 

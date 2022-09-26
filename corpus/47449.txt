@@ -1,0 +1,1 @@
+A truncated icosahedron is an Archimedean solid A regular icosahedron is made of faces When a regular icosahedron is truncated this means that each corner is replaced by a pentagon as there are five edges at each corner A truncated icosahedron is made of regular pentagon s and hexagon s It has vertices and edges 

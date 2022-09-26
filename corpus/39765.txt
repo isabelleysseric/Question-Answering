@@ -1,0 +1,1 @@
+ Repeating decimal is a decimal where the number or pattern repeats forever Repeating decimal is resulted when Division dividing a number by a number that is not divisible except for certain cases like dividing any number by For example dividing by would result in a repeating decimal which is or is the repetend and the period length is 

@@ -1,0 +1,1 @@
+ Online Mendelian Inheritance in Man is a database that keeps track of all known human genes It list those which cause genetic disorder s and those which simply cause traits There are about entries for genes and entries for phenotypes which are caused by a person s genes When possible it links diseases to specific genes It provides a useful tool for further research 

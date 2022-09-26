@@ -1,0 +1,1 @@
+window hotcat translations from commons true This imports the latest version of HotCat from Commons HotCat is a gadget to make changes to categories much easier Full documentation can be found at mw loader load

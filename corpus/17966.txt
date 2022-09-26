@@ -1,0 +1,1 @@
+Evaluates and returns the maximum of a list of numeric values The parameters can be numeric expressions that will be evaluated Empty or missing parameters are ignored Syntax Examples See also includeonly

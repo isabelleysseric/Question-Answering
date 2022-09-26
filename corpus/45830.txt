@@ -1,0 +1,1 @@
+ KVIrc is a multilanguage graphical IRC client for Microsoft Windows Windows Linux Unix and Mac OS The K in K Visual IRC was for a dependancy to K Desktop Environment KDE which became optional from version 

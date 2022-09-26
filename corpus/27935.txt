@@ -1,0 +1,1 @@
+ htaccess is a type of computer file for the configuring of some server web servers htaccess files can be used to create custom error pages or to prevent visitors from directly linking picture s also known as hotlinking hot linking to their own sites costing the website owner money 

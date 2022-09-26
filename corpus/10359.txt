@@ -1,0 +1,1 @@
+A batch file is a special kind of computer file that tells a computer a list of instructions to do in order Batch files were used a lot when DOS was used by many people They are good for automation automating many small pieces of work Some people still use batch files today 

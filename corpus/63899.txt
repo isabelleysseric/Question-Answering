@@ -1,0 +1,1 @@
+Note because this template calls other templates the above display looks out of alignment Look at the cleanOutput Example template to see what the actual will look like 

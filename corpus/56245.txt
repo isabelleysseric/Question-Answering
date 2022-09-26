@@ -1,0 +1,1 @@
+The or Not Found is an error message meaning the server web server could be contacted but the file trying to be accessed could not be found It happens when the website s URL is not valid Betacular Betrates 

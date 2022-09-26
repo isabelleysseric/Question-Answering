@@ -1,0 +1,1 @@
+This template is used on WP RFD deletion request pages to indicate that the case is still being discussed It adds pages to This template is transcluded through Template RfD Preload Template which is loaded automatically by Template RfD It is removed by the closing administrator when the outcome of the request has been decided includeonly

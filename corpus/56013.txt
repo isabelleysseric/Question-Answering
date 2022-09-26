@@ -1,0 +1,1 @@
+In computing a Uniform Resource Identifier is something used to name something on the Internet URIs are similar to URL s because they are the name of something Examples of URIs include 

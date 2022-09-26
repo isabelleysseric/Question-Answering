@@ -1,0 +1,1 @@
+ KolibriOS is a free and open source operating system written all in assembly This makes it very fast and small KolibriOS can fit on a floppy disk and run on a Pentium with MB of RAM 

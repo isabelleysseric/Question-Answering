@@ -1,0 +1,1 @@
+A pentomino is a D shape made out of side by side equal sized square square s They can be found in the books Chasing Vermeer and The Wright It was created by Solomon W Golomb These are the pentominos 

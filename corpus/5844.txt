@@ -1,0 +1,1 @@
+In the Domain Name System an AAAA record is something that changes a domain name into a bit IP address A domain can have many AAAA records for example the domain example com could have an AAAA record for www example com that point s to the IP db and another AAAA record for mail example com that points to the IP db 

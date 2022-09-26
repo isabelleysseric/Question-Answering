@@ -1,0 +1,1 @@
+A band stop filter or band reject filter is an Filter electronic filter that blocks the frequency component of a signal within a certain range value where it has its lower cutoff frequency and upper cutoff frequency The frequency component outside that range of value will be passed on 

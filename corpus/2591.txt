@@ -1,0 +1,1 @@
+ Availability is a term used in information security to show that a system is running and reachable by those that are supposed to be able to use the system Availability is sometimes expressed as a percentage of uptime such as High availability is usually expressed as five nines In a hour day a week operation this would be just a little over minutes per year 

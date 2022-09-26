@@ -1,0 +1,1 @@
+In computer Computing a home directory is a special directory Very often there is one such home directory per user Some users which were created by the system and usually do not log in do not have such a home directory A home directory is used to store personal files of the respective user including written document and settings for programs 

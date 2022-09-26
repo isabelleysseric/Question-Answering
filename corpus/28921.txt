@@ -1,0 +1,1 @@
+ Partial fraction decomposition  is taking a big Rational function algebra fraction and splitting it into a bunch of smaller fractions that are added together Partial fractions are used to get the antiderivatives of algebra fractions In math writing we re turning this Into this The denominators of all these fractions are factors of g 

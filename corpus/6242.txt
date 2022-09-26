@@ -1,0 +1,1 @@
+ this template is for formatting a distance if type mile then output is mm mi rounding of output is based on input unless less than when one decimal place is used noinclude

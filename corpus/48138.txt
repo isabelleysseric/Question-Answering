@@ -1,0 +1,1 @@
+ Chess openings are listed and classified according to their first few moves There are some interesting statistics on the frequency of chess openings from chess data bases 

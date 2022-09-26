@@ -1,0 +1,1 @@
+The equirectangular projection to even straight lines Because the map is stretched out it can not be used in navigation Its main use is to show large map areas 

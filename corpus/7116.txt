@@ -1,0 +1,1 @@
+local p local mapsizes DEU USA x function p map local pframe frame getParent local config frame args the arguments passed BY the template in the wikitext of the template itself local args pframe args the arguments passed TO the template in the wikitext that transcludes the template local map custom args map custom or local map args map or if map custom 

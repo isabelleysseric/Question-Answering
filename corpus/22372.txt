@@ -1,0 +1,1 @@
+A geodetic datum is used to locate a given position when using a set of reference such as a map That way a set of Coordinate system coordinates might reference an exact location on the map stub 

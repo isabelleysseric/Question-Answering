@@ -1,0 +1,1 @@
+ Orbital plane is a path traced and area enclosed by this path in dimension by any celestial body while orbiting around another celestial body For example suppose a Planet is orbiting around a Star in perfect Circle circular orbit then the Circumference is orbital path of the planet and area of circle is orbital plane of that Planet 

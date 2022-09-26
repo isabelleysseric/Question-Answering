@@ -1,0 +1,1 @@
+ A polyhedron is a geometry geometrical shape It has flat faces and straight edges Usually it is defined by the number of faces or edges Mathematicians do not agree on what makes a polyhedron 

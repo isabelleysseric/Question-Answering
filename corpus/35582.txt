@@ -1,0 +1,1 @@
+ Random Access Memory keeps its data without using power but is more expensive and works more slowly so it is used in smaller amounts Since the late th century RAM uses transistors usually MOSFET s to store data Before that magnet ic memory was the usual kind 

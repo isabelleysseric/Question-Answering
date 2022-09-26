@@ -1,0 +1,1 @@
+In boolean algebra DeMorgan s laws are the laws of how a NOT gate affects AND gate AND and OR gate OR statements They can be remembered by break the line change the sign 

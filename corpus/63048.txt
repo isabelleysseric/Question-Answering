@@ -1,0 +1,1 @@
+This template allows easy formatting of statements of the form thing with correct use of plurals It uses the Help Magic words Language dependent word conversions plural magic word so ideally it should work with minimal modification for other language 

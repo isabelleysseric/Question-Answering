@@ -1,0 +1,1 @@
+This template is like mw Help Extension ParserFunctions ifeq but does not m Help Newlines and spaces Trimming on expansion trim the then and else part 

@@ -1,0 +1,1 @@
+ GNU Parted is a free computer program for creating destroying resizing checking and copying Partition partitions and the file system s on them This is useful for creating space for new operating system s reorganising hard disk usage copying data between hard disks and disk image disk imaging It was written by Andrew Clausen and Lennert Buytenhek 

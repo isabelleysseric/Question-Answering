@@ -1,0 +1,1 @@
+ Progressive scan is the name for a technology for displaying image s where all the lines of the image are drawn in sequence For television and video this is opposed to interlaced video where the image is split in two halves which are drawn in sequence 

@@ -1,0 +1,1 @@
+ Berkeley Software Distribution is a kind of the UNIX operating system that is distributed for free since It was started by people in Berkeley California USA in the year Now people from around the world work on it There are many different kinds of BSD that many people have worked on Some of them are DragonFly BSD FreeBSD NetBSD OpenBSD and Mac OS X 

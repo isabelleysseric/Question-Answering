@@ -1,0 +1,1 @@
+New I O or Non blocking I O usually called NIO is a collection of Java programming language Application programming interface s that offer features for intensive I O operations

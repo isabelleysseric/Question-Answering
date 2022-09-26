@@ -1,0 +1,1 @@
+ This template operates the same as but does not use the clear attribute so it can be used better for articles with a short amount of text but a large infobox or set of images noinclude

@@ -1,0 +1,1 @@
+ ReactOS is a project to develop an operating system that is compatible with software for Microsoft Windows and its successors In the project is still in its first stage of development ReactOS is not based on Linux or Unix ReactOS uses some code from the Wine Wine project 

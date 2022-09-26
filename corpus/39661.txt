@@ -1,0 +1,1 @@
+The Template Convert text allows insertion of free form text into a conversion of amounts with the output amounts gathered together at the end of the text The free form text among the output amounts can be set by out or out to specify text after each of the output numbers 

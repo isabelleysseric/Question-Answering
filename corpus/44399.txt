@@ -1,0 +1,1 @@
+This Wikipedia Category category contains Wikipedia Template messages templates that create links to other Wikipedia pages from a parameter usually in a special format or with additional links to related pages To add a template to this category use the following code lt includeonly gt lt noinclude gt lt noinclude gt 

@@ -1,0 +1,1 @@
+This template handles a glitch in the URL encoding for musicline de Some songs include a slash character in the title Standard urlencode processing doesn t work as musicline expects a A to replace the slash This template replaces a single slash character with a A noinclude

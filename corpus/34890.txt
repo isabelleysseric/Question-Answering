@@ -1,0 +1,1 @@
+ Low voltage ride through is the capability of an electrical wikt device device to function normally during periods of low voltage Many electrical devices in general must have a minimum amount of voltage for them to be able to work If the voltage is too low the equipment will not work correctly or the Energy efficiency efficiency will be reduced 

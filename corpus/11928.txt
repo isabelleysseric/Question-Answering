@@ -1,0 +1,1 @@
+Numbered lists if spread over multiple columns will restart the numbering from one in each column There is no way to specify a starting value in wikisyntax so HTML has to be used This template automates the process so one doesn t have to write the HTML by hand 

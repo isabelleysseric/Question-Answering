@@ -1,0 +1,1 @@
+A thread in computer science is short for a thread of execution Threads are a way for a computer program program to divide processes in the same multitasking operating system do not Threads are lightweight in terms of the system resources they consume as compared with processes 

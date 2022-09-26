@@ -1,0 +1,1 @@
+The Network Time Protocol by clock synchronization synchronizing the clocks of computer systems over Internet Protocol IP network s NTP is one of the oldest Internet Protocol s still in use and uses User Datagram Protocol UDP TCP and UDP port port 

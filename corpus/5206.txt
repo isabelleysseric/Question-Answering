@@ -1,0 +1,1 @@
+ div class annot bar style width auto font size position absolute text align center margin top expr div class annot nudge style text size float left position relative text align left top em left em width em span style position relative width auto z index font size color vertical align middle line height bottom noinclude

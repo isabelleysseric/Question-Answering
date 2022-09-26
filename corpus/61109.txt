@@ -1,0 +1,1 @@
+ Minimal Instruction Set Computer instructions The disadvantage is that smaller instruction set always have more sequential dependencies reducing instruction level parallelism 

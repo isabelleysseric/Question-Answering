@@ -1,0 +1,1 @@
+This is the or image message box meta template It is used to build message box templates for image pages such as etc It offers several different colours uses default images if no image parameter is given and it has some other features This template works almost exactly like and uses the same parameters 

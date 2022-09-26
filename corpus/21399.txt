@@ -1,0 +1,1 @@
+A composite number is a natural number that can be found by multiplying prime number s For example the number can be found by multiplying by and the number You get it by multiplying and All natural numbers can be put in one of the two classes below 

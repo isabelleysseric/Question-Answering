@@ -1,0 +1,1 @@
+The Internet Engineering Task Force or IETF is the main organization that researches and promotes new Internet standards It is an open Voluntary association volunteer organization A Request for Comments or RFC is a document from the IETF These are divided into several categories Informational Historical and Standard track Only Standard track are Internet Standards 

@@ -1,0 +1,1 @@
+ Conspire is an IRC client written in C C first made in The newest or latest version of Conspire is and was made in The client is free to use Conspire is software license licensed as LGPL It is based on XChat 

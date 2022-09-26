@@ -1,0 +1,1 @@
+ QRpedia is a web system for mobile devices like mobile phones It uses QR code s to show Wikipedia articles to people The articles are shown in the user s own language 

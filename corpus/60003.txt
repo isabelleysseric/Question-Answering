@@ -1,0 +1,1 @@
+This template formats links to the IUCN Red List website Usage where is the internal redlist identification number For example in the id number is is an optional parameter for that causes the link to display like title instead of An optional parameter may to added to link directly to the range map rather than the general information page for a given species noinclude

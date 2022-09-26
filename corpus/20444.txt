@@ -1,0 +1,1 @@
+ function autoEdHeadlines MAIN FUNCTION describes list of fixes Remove bold from section headingsvar loopcount while str str replace loopcount Remove trailing colon from section headingsstr str replace Correct caps in See also sectionstr str replace 

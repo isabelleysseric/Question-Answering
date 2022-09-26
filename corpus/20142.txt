@@ -1,0 +1,1 @@
+In mathematics the norm of a vector is its length For the real numbers the only norm is the absolute value For vector space spaces with more dimension s the norm can be any Function function with Positive homogeneity Scales for real numbers Subadditive Function of sum is less than sum of functions that is or the triangle inequality 

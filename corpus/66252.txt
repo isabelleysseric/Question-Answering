@@ -1,0 +1,1 @@
+local p function p usesProperty	local parent frame getParent	local result 	local ii 	while true do		local p num parent args ii or 		if p num then			local label mw wikibase label or NO LABEL 			result result 			ii ii 		else break		end	end	return resultend return 

@@ -1,0 +1,1 @@
+A One time pad is a method of encryption It is a symmetrical encryption which means the same key is needed for encryption and decryption A one time pad uses a key that is either as long or longer than the message it encrypts If this method is used correctly it is impossible to decrypt or break the encryption without the key 

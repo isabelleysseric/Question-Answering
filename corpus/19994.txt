@@ -1,0 +1,1 @@
+This Wikipedia Template messages template is used to show that an article is using sources that are WP NPOV biased because most sources named have a very close connection to the subject such as the manufacturer of a product This template can be used for any source that is closely connected to the subject even if the source is not en Wikipedia SELFPUB self published 

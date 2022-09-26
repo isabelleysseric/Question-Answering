@@ -1,0 +1,1 @@
+ is a utility which superimposes one image over another and positions it relative to the top left corner of the bottom image Although w Template GBthumb the original idea was to place a dot on a locator map based on editable coordinates it can be used to precisely overlay any two images for any reason 

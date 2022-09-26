@@ -1,0 +1,1 @@
+This template produces a link to a list of map sources based on the geographical coordinates and other parameters and provides a standardized notation for the coordinates The template is for geographical latitude and longitude coordinates on Earth expressed in degrees minutes and seconds See Wikipedia WikiProject Geographical coordinates for further information 

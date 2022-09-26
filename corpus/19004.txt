@@ -1,0 +1,1 @@
+ Bugzilla is an internet software for recording bug reports It is coded in CGI and is used by many programmers It is open source free for everyone to use without having to pay any money 

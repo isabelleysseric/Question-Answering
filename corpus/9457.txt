@@ -1,0 +1,1 @@
+ Power lines are wire s that conduct electricity through to another place Some have step up transformer s and step down transformer s The voltage of the power at the end is usually V but is much higher while going through the lines The power at the end is then safe enough to be used when stepped down by a transformer 

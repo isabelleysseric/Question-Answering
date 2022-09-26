@@ -1,0 +1,1 @@
+ url title The Apache Software License work The Big DFSG compatible Licenses publisher Debian Project accessdate April url title Apache License Version work The GNU Project publisher Free Software Foundation accessdate April The Apache License is a Free software free software license 

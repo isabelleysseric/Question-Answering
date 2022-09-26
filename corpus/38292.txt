@@ -1,0 +1,1 @@
+ Kate is a text editor for the KDE desktop environment The name is an acronym for KDE Advanced Text Editor It was first put in the KDE release on August 

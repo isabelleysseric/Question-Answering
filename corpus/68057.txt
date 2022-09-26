@@ -1,0 +1,1 @@
+ Fermat s primality test is an algorithm It can test if a given number p is probably prime number prime There is a flaw however There are numbers that pass the test and that are not prime These numbers are called Carmichael number s 

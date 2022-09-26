@@ -1,0 +1,1 @@
+s In mechanics the internal friction may be one of the causes of such damping effect For many purposes the damping force F can be modeled as being proportional to the velocity v of the object where c is the damping coefficient given in units of Newton second s per meter 

@@ -1,0 +1,1 @@
+A file allocation table is a way that computer computers look up stored data on a storage device These include floppy disk s USB flash drive s SD card s and other high capacity storage devices A FAT is a list of Data cluster clusters that show where a computer file is stored The FAT file system is a legacy file system that is both is simple and robust cite web

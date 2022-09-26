@@ -1,0 +1,1 @@
+ Linear algebra talks about function The vector may change its length or become null The value of the change in length of the vector is known as eigenvalue 

@@ -1,0 +1,1 @@
+ The NAND gate is a logic gate used to build digital logic circuits Given two inputs A and B A NAND B will be true if at most one of A and B is true In other words A NAND B is false if both A and B are true and true otherwise The NAND gate is a universal gate 

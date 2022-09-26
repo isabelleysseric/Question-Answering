@@ -1,0 +1,1 @@
+ Alice and Bob are placeholder names which are commonly used to talk about problems in cryptography game theory and physics In Cryptography people talk about Alice sending Bob a message rather than using A sending B a message Ron Rivest seems to have used these names first in publications of and about the RSA algorithm 

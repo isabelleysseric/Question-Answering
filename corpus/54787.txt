@@ -1,0 +1,1 @@
+ Moodle is a software application designed for education It is an online learning space It is a free and open source software The name moodle stands for Module Object Oriented Dynamic Learning Environment It was developed by Martin Dougiamas tech stub 

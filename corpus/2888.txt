@@ -1,0 +1,1 @@
+In mathematics a Riemann sum is a sum that makes an approximation of the total area underneath a curve on a graph The area can be known as the integral It may also be used to define the integration operation The sum is named after a German mathematician who was called Bernhard Riemann 

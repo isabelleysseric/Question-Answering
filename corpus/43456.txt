@@ -1,0 +1,1 @@
+A variable width encoding is a type of character encoding scheme in which codes of different lengths are used to encode a character set for representation in a computer Some kinds of Unicode work this way 

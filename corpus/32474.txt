@@ -1,0 +1,1 @@
+The Moment Magnitude scale is a way to measure the power of earthquakes The higher the number the bigger the earthquake It is the energy of the earthquake at the moment it happens Like the similar and older Richter scale it is logarithm ic with a base of ten 

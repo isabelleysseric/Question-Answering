@@ -1,0 +1,1 @@
+A software extension is a type of computer program that is meant to extend instructions that the base program does not have Either the base program or the extension can tell those instructions to run 

@@ -1,0 +1,1 @@
+ NOTOC This template prevents word wraps in text and links with spaces in It is designed to handle the really tricky wrapping cases where you need full control For instance in very complex long link lists It works similarly to This template takes no parameters instead it works in pair with 

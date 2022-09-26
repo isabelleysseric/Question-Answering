@@ -1,0 +1,1 @@
+ Daubechies wavelets are a family of orthogonal wavelet s named after Belgian physicist and mathematician Ingrid Daubechies They are used in discrete wavelet transform 

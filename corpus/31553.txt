@@ -1,0 +1,1 @@
+ File Tetrahedron svg Tetrahedron File Hexahedron svg Cube File Octahedron svg Octahedron File POV Ray Dodecahedron svg Dodecahedron File Icosahedron svg Icosahedron A platonic solid is a three dimensional shape It has the following characteristics Each face is built from the same type of polygon s There are the same number of polygons meeting at every corner of the shape 

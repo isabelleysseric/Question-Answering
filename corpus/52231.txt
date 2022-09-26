@@ -1,0 +1,1 @@
+ HQ is a joke programming language It has four operations H print Hello world Q print the program s source code print the lyrics to en Bottles of Beer add one to the accumulator 

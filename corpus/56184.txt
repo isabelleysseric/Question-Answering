@@ -1,0 +1,1 @@
+ function autoEdTemplates MAIN FUNCTION describes list of fixes Remove unneeded Template text from transclusions str str replace Replace redirects to Reflist with Reflist str str replace str str replace Replace a long version of Reflist with Reflist str str replace Replace redirects to about with about str str replace return str source

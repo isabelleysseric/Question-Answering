@@ -1,0 +1,1 @@
+ Integer overflow occurs in computers when the number which is stored becomes larger than the capacity of the memory it is stored in The most likely result is that the number will reset to and start over For example start with the number using bit bits integer integers Add a few times this wil result in an overflow which causes it to reset the number to 

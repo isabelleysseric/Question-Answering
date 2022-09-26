@@ -1,0 +1,1 @@
+ SeaMonkey is a free software free and open source Internet application suite which uses the Gecko Gecko rendering engine It works on many operating system s It is very useful and includes an e mail client a calendar a HTML editor an Internet Relay Chat IRC client and a web browser It is made by the SeaMonkey Council formerly by Mozilla Foundation 

@@ -1,0 +1,1 @@
+ Wikidata is a wiki that is a collection of wikt data data on the internet The information stored on Wikidata can be used by related websites like Wikipedia Wikidata is designed so that humans and machines can read it As of September it has more than million data items 

@@ -1,0 +1,1 @@
+Please use this template when a person is currently facing charges in a trial There is one optional parameter to add the date to the message box The format is month name and four digit year This template will add the category All ongoing trials to the article or article talk page includeonly

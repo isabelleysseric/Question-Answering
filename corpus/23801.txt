@@ -1,0 +1,1 @@
+In mathematics a divisor of an integer n also called a factor of n is an integer which evenly divides n without leaving a remainder Any number is always evenly divisible by and itself which are two of the divisors A prime number has no other divisors Finding one or more factors of a given number is called factorization TOC 

@@ -1,0 +1,1 @@
+ Dominoes is a game played with small tile s called dominoes A domino is a rectangle rectangular tile with a line in the middle that separates it into two sides Each side has a number of black spots The number of spots is different on each domino Some dominoes have a side that is blank The games possible with these objects resemble card games 

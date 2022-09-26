@@ -1,0 +1,1 @@
+ An inversion is a chromosome rearrangement in which a segment of a chromosome is reversed end to end An inversion is when the chromosome breaks at two points in a chromosome and does a degree flip The gene s inside the inversion are in the reverse of the original order 

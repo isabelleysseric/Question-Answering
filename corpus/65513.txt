@@ -1,0 +1,1 @@
+A triangular number is a number that is the sum of all of the natural number s up to a certain number For example is a triangular number because The first triangular numbers are and A triangular number is calculated by the equation 

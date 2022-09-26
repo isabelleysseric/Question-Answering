@@ -1,0 +1,1 @@
+This macro is used similarly to does not make the braces part of the link This is to allow shorter template names to be easier to click on The Tn name is short for T emplate n ame 

@@ -1,0 +1,1 @@
+ Engineering tolerance is the ability of a machine to cope with changes while still continuing to work This includes changes to size quality When a machine is made the needed engineering tolerance is set to provide a balance between performance and the need to cope with the changes it may experience 

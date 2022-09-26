@@ -1,0 +1,1 @@
+This template makes talk about the IRC channel on Freenode more user friendly for those who are unsure about what it is The template will create a protocol link for users with IRC clients already installed and a connect now link that will take the user to Freenode s webchat client The connect now link is a different colour in order to easily differentate between the link 

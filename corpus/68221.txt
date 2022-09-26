@@ -1,0 +1,1 @@
+ url title Changes in MySQL date work MySQL Reference Manual publisher Oracle Corporation Oracle accessdate September MySQL is a database system used by many websites on the Internet It is based off of SQL Many ways of doing things in SQL are similar in MySQL 

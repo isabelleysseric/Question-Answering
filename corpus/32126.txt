@@ -1,0 +1,1 @@
+Template messages used by Wikipedia Huggle Huggle are stored in subpages of this page These messages are referred to by Huggle s Wikipedia Huggle Config configuration page They should not be used directly Special Recentchangeslinked Template Huggle All Recent template changes noinclude

@@ -1,0 +1,1 @@
+A computing platform is a well defined set of hardware or software that allows application programs to run Typical platforms include the hardware architecture the operating system as well as runtime libraries The programming language Java Java is an example of Software Platform An example for a hardware platform is SPARC 

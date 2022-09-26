@@ -1,0 +1,1 @@
+A Schmitt trigger is an Electronics electronic device which can moderate analog signal values only to zero or one It can be made of a couple transistor s or several triggers can be arranged in an integrated circuit Uses Converting analog signals to digital Oscillators category Electronic circuits 

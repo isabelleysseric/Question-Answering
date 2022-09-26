@@ -1,0 +1,1 @@
+Something is self similar iff it is similar to a part of itself For example the Mandelbrot set is self similar as it contains an infinte number of almost exact copies of itself 

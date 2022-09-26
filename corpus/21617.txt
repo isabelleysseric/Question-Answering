@@ -1,0 +1,1 @@
+This template automatically displays a documentation box like you are seeing now of which the content is transcluded from another page It is intended for pages which are Wikipedia Transclusion transcluded in other pages i e templates whether in the template namespace or not 

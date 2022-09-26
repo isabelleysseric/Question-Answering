@@ -1,0 +1,1 @@
+In mathematical logic a sentence is independent from a First order logic first order theory if that theory cannot be used to prove the sentence as true or false Sometimes people also talk about the sentence being undecidable but this has nothing to do with the notion of Decidability theory decidability as in solving a decison problem 

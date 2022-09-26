@@ -1,0 +1,1 @@
+ Port forwarding also referred to as port mapping citeweb title Definition of port forwardingPort forwarding allows remote computers to connect to a specific computer within a private LAN For example Port forwarding is not necessary with IPv because every IPv enabled device has a public IPv address 

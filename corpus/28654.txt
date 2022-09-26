@@ -1,0 +1,1 @@
+A catenary is a type of curve An ideal chain hanging between two supports and acted on by a uniform Gravity gravitational force makes the shape of a catenary The equation for a catenary in Cartesian coordinate system Cartesian coordinates is where Hence we can also write the catenary equation as The word catenary comes from the Latin word catena which means chain 

@@ -1,0 +1,1 @@
+In abstract algebra the center of a group xy yx The center is equal to the intersection of the centralizer s of the group elements The notation Z comes from the fact that in German language German the word for center is zentrum 

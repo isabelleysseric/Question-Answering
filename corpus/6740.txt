@@ -1,0 +1,1 @@
+This template can be added to a section of an automatically archived talk page to stop it from being archived You may need to substitute this template depending on which bot does the archiving includeonly

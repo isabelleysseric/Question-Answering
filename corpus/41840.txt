@@ -1,0 +1,1 @@
+This subtemplate of is used to do the actual multiplication and addition needed to create a decimal number from a hexadecimal string It is not meant to be called directly 

@@ -1,0 +1,1 @@
+ This template is largely deprecated by which often accomplishes the same objective with the magic word DISPLAYTITLE However this template is useful for when the name contains odd characters like etc 

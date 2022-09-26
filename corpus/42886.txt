@@ -1,0 +1,1 @@
+A task manager is a computer program that is used to show information about the process processes and programs as well as change the processes wikt priority priority An example of a task manager is Windows Task Manager 

@@ -1,0 +1,1 @@
+If file uploads are enabled you can upload certain types of files to the wiki This is particularly useful for uploading images which you want to place on an article but you can also upload other types of files 

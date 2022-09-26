@@ -1,0 +1,1 @@
+When a computer is asleep it is not running However programs that were running when the computer went to sleep are not shut down When the computer wakes up the programs come back to where they were before the sleep 

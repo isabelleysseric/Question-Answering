@@ -1,0 +1,1 @@
+ This module implements See unit tests at Module URL tests local p function trim return endfunction safeUri local success uri pcall return mw uri new end if success then return uri endendfunction p url url trim text trim if url 

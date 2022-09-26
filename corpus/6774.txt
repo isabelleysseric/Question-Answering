@@ -1,0 +1,1 @@
+This template is used to insert expression icons The template takes an expression name as the first parameter The optional second parameter changes the size of the icon displayed The default value is pixels The output is an expression icon If no expression name is used the question mark icon is displayed 

@@ -1,0 +1,1 @@
+In mathematics a magma is kind of algebraic structure It is a set with a binary operation on that set A binary operation works by taking two elements from a set and returning some other element of that set If we give the set a label 

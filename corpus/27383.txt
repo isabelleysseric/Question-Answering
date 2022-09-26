@@ -1,0 +1,1 @@
+ Warning You are changing a page which is used to provide interface text for the software Changes to this page will affect the appearance of the user interface for other users For translations please consider using translatewiki net the MediaWiki localisation project

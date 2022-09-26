@@ -1,0 +1,1 @@
+ Your change has been rejected because your client mangled the punctuation characters in the edit token The change has been rejected to prevent corruption of the page text This sometimes happens when you are using a buggy web based anonymous proxy service

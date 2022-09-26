@@ -1,0 +1,1 @@
+style background ddffdd This template is designed to be used in a table to make a cell with Optional in that cell with a green background Example style font size text align center class wikitable noinclude

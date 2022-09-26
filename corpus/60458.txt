@@ -1,0 +1,1 @@
+The HTML mark up produced by this template includes an HCardhCard uses HTML classes including adr county name fn label locality nickname note org vcard Please do not rename or remove these classes 

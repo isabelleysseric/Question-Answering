@@ -1,0 +1,1 @@
+ Knuth s up arrow notation is a way of expressing very big numbers It is wikt relate relate d to the hyperoperation sequence The notation is used in Graham s number One arrow represents exponentiation arrows represent tetration for pentation etc Exponentiation a multiplied by itself b times Tetration a exponentiated by itself b times Third level etc 

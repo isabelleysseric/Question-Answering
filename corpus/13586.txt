@@ -1,0 +1,1 @@
+A Media Access Control address and the last pair is the serial number for the Network card network interface card to uniquely identify the card tech stub 

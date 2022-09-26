@@ -1,0 +1,1 @@
+This is meant to replace template with an HTML lt blockquote element as recommended by WP MOS Quotations It is wikitext compatible so it should be possible to redirect cquote to this template 

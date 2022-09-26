@@ -1,0 +1,1 @@
+In mathematics a theory is called consistent if does not contain any contradiction s In the context of predicate logic it is impossible to deduce both 

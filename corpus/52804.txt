@@ -1,0 +1,1 @@
+The mvar template makes the argument italic and formats as mathematics It is used to refer to individual variables in normal running text It should not be used within a template as that makes the characters too large Note that digits in a variable name are conventionally not italic so 

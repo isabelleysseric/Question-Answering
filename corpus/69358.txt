@@ -1,0 +1,1 @@
+ if Editnotice load content We unfortunately have to call content twice so that the editnotice area and clear elements are only output if there is at least one actual edit notice This ensures the software can determine whether or not a page has edit notices And to ensure MediaWiki Editnotice notext gets shown when appropiate Editnotice load content noinclude

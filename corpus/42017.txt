@@ -1,0 +1,1 @@
+Creates a location map as a m Help composite images composite image of an existing map in equirectangular projection with a marker and an optional label superimposed onto it Note 

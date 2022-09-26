@@ -1,0 +1,1 @@
+ Dear editors if you wish to add more items please make sure that they are in one single line delimited by space Otherwise consecutive boxes made from this template would have space between them Titlebar th colspan style text align center above Groups below noinclude

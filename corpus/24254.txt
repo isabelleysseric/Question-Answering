@@ -1,0 +1,1 @@
+Outputs each of the parameters separated by commas or between the first and last the word and preceded by a comma Up to eight parameters may be specfied It is intended for use by other templates to output a suitably formatted list when the number of parameters varies It can currently handle between and parameters 

@@ -1,0 +1,1 @@
+ The Search for Extra Terrestrial Intelligence is a program that individuals can use on their computers to search for radio signals from worlds with alien life It is maybe the most famous of the BOINC or Berkeley Open Infrastructure for Network Computing progams that allow users to use their computers for scientific research 

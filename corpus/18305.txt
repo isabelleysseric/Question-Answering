@@ -1,0 +1,1 @@
+Include the collapsible archive box in the talk page by addingto where you want the archive box to appear Then change the with the actual name and make sure to add the forward slash How you present a list of archive pages is up to you You can separate them with commas or format them as lists See Automatic links and Examples below 

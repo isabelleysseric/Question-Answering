@@ -1,0 +1,1 @@
+ Multivariable calculus is the extension of regular one dimensional calculus to more than one dimension Most of the concepts from calculus still work in more than one dimension Special multivariable uses include partial dervatives or differentiation with only one dimension at a time and multiple integration or integral integrating over more than one dimension 

@@ -1,0 +1,1 @@
+This template allows you to compare a template parameter to a property in Wikidata It is powered by the Lua module Module WikidataCheck You can call it with It is recommended you create these categories with before applying this template ExampleFor the following is the code to add 

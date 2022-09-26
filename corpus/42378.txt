@@ -1,0 +1,1 @@
+A null vector is a special vector which is the identity element for the addition of vectors in a given vector space As an example the null vector of n dimensional coordinate space is a vector whose components are all Null vectors are used to define key concepts of linear algebra such as linear independence Basis kernel They are used to solve linear equation linear equations 

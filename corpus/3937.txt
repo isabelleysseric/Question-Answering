@@ -1,0 +1,1 @@
+A color wheel is a circle circular chart that shows primary colour primary and secondary color s The color wheel most commonly used today is called the HSV color wheel which means hue saturation value The digital form of the HSV color wheel is called the RGB color wheel 

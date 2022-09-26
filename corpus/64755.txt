@@ -1,0 +1,1 @@
+ Note page has hidden operative code when viewed directly This is an interwiki template sister project This interwiki template allows links to template space on Mediawiki Commons and being based on will also represent several other placeholder parameters allowing it to be used in documentation examples and for instruction noinclude

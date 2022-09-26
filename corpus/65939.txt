@@ -1,0 +1,1 @@
+ div class transborder style position absolute width px line height left px top px border width px border bottom color right px top border width px px border right color right px top px border width px border top color left px top px border width px px border left color left top border width px px border color noinclude

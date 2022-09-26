@@ -1,0 +1,1 @@
+HtmlBuilder provides a way to construct complex HTML and CSS markup by creating a tree of nodes similar to the Document Object Model The result is code that is more comprehensible and maintainable than if you simply concatenated strings together It offers a fluent interface that should look familiar to any user of jQuery 

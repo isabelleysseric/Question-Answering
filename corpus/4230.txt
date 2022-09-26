@@ -1,0 +1,1 @@
+ Modular programming is a way of Organization organizing a computer program into smaller parts called wikt module module s Each module contains the necessary code to run one specific part of the final computer program Modular programs are simpler to wikt understand understand 

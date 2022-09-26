@@ -1,0 +1,1 @@
+A brownout is a drop of voltage in an electrical power supply Brownouts may be done intentionally in order to reduce the load during an emergency This is done to prevent a total Power outage supply failure faults in the electrical grid which cause a drop in voltage 

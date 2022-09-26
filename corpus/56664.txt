@@ -1,0 +1,1 @@
+This template also returns the date hidden by CSS in the ISO format needed by one or more of the following microformat s hAtom hAudio hCalendar hCard usually but not always within infobox or similar templates or tables Its use in hCard is for organisations venues and similar use for people Similarly returns the date as hCalendar s See en WP UF for further details 

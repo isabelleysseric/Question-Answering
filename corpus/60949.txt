@@ -1,0 +1,1 @@
+Creates a pretty looking tab to make discussions look nice The second parameter is optional The second parameter must be URL friendly Examples includeonly

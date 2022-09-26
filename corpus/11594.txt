@@ -1,0 +1,1 @@
+This module outputs various kinds of lists At present it supports bulleted lists unbulleted lists horizontal lists ordered lists and horizontal ordered lists It allows for easy css styling of the list or of the individual list items 

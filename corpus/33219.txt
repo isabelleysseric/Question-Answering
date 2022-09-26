@@ -1,0 +1,1 @@
+This template is used to WP CITE cite sources in Wikipedia It is intended specifically for news sources For citing journals magazines and websites see respectively 

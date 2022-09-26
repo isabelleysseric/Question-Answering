@@ -1,0 +1,1 @@
+ Game Oriented Assembly Lisp is a video game programming language developed by Andy Gavin and Naughty Dog It was written using Allegro Common Lisp and used in the development of Jak and Daxter series of games GOAL s first use was for the Jak and Daxter The Precursor Legacy game Earlier the Game Oriented Object Lisp Crash Bandicoot game 

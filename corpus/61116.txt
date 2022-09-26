@@ -1,0 +1,1 @@
+A Hex editor is a piece of software that allows one to edit Binary numeral system binary data on a computer The name comes from the fact that such data is usually represented as hexadecimal numbers 

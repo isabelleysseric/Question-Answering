@@ -1,0 +1,1 @@
+This template can be used to transclude multiple stub templates into a single article while only one stub is displayed on that article This can be useful for including the article in categories for multiple stubs For example in an article about an American athlete The template requires at least stubs and can be used with up to stubs 

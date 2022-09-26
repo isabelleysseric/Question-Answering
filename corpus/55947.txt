@@ -1,0 +1,1 @@
+ Purpose Simlar to but for substituted templates instead Up to six parameters for the specified template are displayed as placeholders more parameters are shown as includeonly

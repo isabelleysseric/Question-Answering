@@ -1,0 +1,1 @@
+ documentation content This template is intended to be used to display an Urdu numeral from zero to nine in line with text The template has three parameters The first parameter specifies the numeral the second specifies the horizontal or vertical size and the third specifies the Wikipedia Extended image syntax Vertical alignment vertical alignment 

@@ -1,0 +1,1 @@
+ Pig is a jeopardy A player that rolls risks a turn total and may gain a higher turn total or score nothing A player that holds scores the turn total John Scarne wrote about Pig as a common dice game in Teachers often use Pig for fun lessons 

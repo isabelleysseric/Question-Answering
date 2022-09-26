@@ -1,0 +1,1 @@
+ Simple Mail Transfer Protocol is an Internet communication protocol used to send and relay an email message between email servers It is not used to retrieve email messages from a server Instead either Internet Message Access Protocol IMAP or Post Office Protocol POP is used to retrieve email messages 

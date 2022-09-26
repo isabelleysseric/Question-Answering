@@ -1,0 +1,1 @@
+The Template Latin intro displays the above introductory text for a particular letter passed as parameter The Table of Contents links to other articles named in the form List of Latin phrases which stores the phrases beginning with each letter in the overall list includeonly

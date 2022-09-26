@@ -1,0 +1,1 @@
+Template which allows more space above italic text for accents and diacritical marks increasing legibility Use to italicize Other name or Native name parameters in infobox heads Syntax Examples showing infobox heads before and after Before template using After template using Before template using After template using includeonly

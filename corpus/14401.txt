@@ -1,0 +1,1 @@
+ Earthquake performance simulation is meant to study effect of earthquakes on building structures and is a practical way of seeing a thing to happen without it actually taking place in the same way 

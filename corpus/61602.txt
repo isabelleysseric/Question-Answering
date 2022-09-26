@@ -1,0 +1,1 @@
+ function autoEdExtraBreaks MAIN FUNCTION describes list of fixes Usually unneeded BR tags from ends of image descriptions and wikilinks str str replace BR tag before a list itemstr str replace BR tag followed by at least two newlinesstr str replace return str source

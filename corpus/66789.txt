@@ -1,0 +1,1 @@
+A ceiling balloon is used by meteorologist s to determine the height of the base of cloud s above ground level during daylight hours The principle behind the ceiling balloon is a balloon with a known ascent rate and determining how long the balloon rises until it disappears into the cloud Ascent rates yield the ceiling height 

@@ -1,0 +1,1 @@
+In cryptography X is a common PKI used to manage digital certificates and public key encryption and a key part of the Transport Layer Security protocol used to secure web and email communication X specifies ways in which public key certificates certificate revocation lists attribute certificates and a certification path validation algorithms are formatted

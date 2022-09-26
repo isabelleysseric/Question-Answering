@@ -1,0 +1,1 @@
+This category lists templates which directly apply the magic word which disables indexing by en Wikipedia Controlling search engine indexing external search engines Where template A calls template B and it is B which applies NOINDEX only template B should be listed here 

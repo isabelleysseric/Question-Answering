@@ -1,0 +1,1 @@
+With this template mw Help Extension ParserFunctions if can be used in a way such that it does not m Help Newlines and spaces Stripping on expansion strip spaces and newlines from the then and else part For evaluating the condition spaces and newlines are stripped like with ParserFunctions This template can be substituted 

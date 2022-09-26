@@ -1,0 +1,1 @@
+ Causality is a way to describe how different event s relate to one another Suppose there are two events A and B If B happens because A happened then people say that A is the cause of B or that B is the effect of A What looks very simple is in fact a difficult problem Many people have tried to solve it they have come up with different solutions

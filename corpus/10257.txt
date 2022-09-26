@@ -1,0 +1,1 @@
+The Math template formats HTML or wikimarkup generated mathematical formulas in the same manner as HTML based TeX formulas which uses a serif based font The generated formula is displayed using the same size font as the adjoining text The template will prevent line wrapping Use this template for non complex formulas as an alternative to using the math tag format lt math lt math 

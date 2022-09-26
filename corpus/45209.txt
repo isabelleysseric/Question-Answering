@@ -1,0 +1,1 @@
+This template inserts an HTML when called It is used inside Wikipedia Babel Babel templates to indicate the start of a new column See Template Babel for an example noinclude

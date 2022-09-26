@@ -1,0 +1,1 @@
+A truncated octahedron is an Archimedean solid It has faces are hexagon s are square s It is obtained by cutting the edges of an octahedron Each corner of the octahedron has four connections Cutting the corner will therefore replace it with a square 

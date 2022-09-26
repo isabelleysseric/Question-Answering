@@ -1,0 +1,1 @@
+This template calls on This template is meant to ensure all possible fields are always accurately filled in In the case where the pokedex info is duplicated across multiple games use any game The first parameter is not case sensitive so FireRed firered FiRerED includeonly

@@ -1,0 +1,1 @@
+A hyperoperation is a wikt generalization generalization of addition multiplication exponentiation tetration etc They are often written using Knuth s up arrow notation Natural number level hyperoperations can be defined recursive ly as a piecewise function H n begin cases b text if n a text if n b text if n b text if n ge b H n text otherwise end cases 

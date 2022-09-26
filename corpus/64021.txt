@@ -1,0 +1,1 @@
+A Graphics Processing Unit is a microprocessor processor whose task is calculating the graphical output for monitors It is mostly used in computer s and Video game console video game systems The GPU can be put on the motherboard or on separate video card s 

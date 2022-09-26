@@ -1,0 +1,1 @@
+ width border cellspacing cellpadding style background color FFF border collapse collapse font size line height th colspan align center style border top px solid AAAAAA border right px solid AAAAAA background if if 

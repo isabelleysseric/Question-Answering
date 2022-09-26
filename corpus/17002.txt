@@ -1,0 +1,1 @@
+ parameter Template Infobox person height changes text for units of height to the abbreviations m cm ft or in then passes the string to Template Infobox person height locate which replaces any instances of with a space and determines the positions of m cm ft or in within that string all of which is passed to Template Infobox person height switch which does the conversion

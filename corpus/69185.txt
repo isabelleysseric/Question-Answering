@@ -1,0 +1,1 @@
+s ns yns n yn Produces a representation of a date First parameter is the display text second is the style third is the link text Style parameters no link y yy link n no link even after y t no link even after y but return the link text s displays AD or BC in small capitals a adds AD if no b b adds BCThe above options can be combined in that order This template is used by noinclude

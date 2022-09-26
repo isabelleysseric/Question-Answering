@@ -1,0 +1,1 @@
+ IF input ipa symbol ELSE compose from decimals symbols for big font pass through without further ado Deprecated parameters for backward compatibility ipa number ipa text decimal xsampa sound These are entered here as the default value of corresponding new parameter like noinclude

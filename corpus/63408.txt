@@ -1,0 +1,1 @@
+ Xfce Solaris and BSD It is made to be fast and lightweight while still looking nice and easy to use The current version is Modularity It uses the Xfwm window manager described below Its configuration is entirely mouse driven and the configuration files are hidden from the casual user 

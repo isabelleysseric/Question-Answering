@@ -1,0 +1,1 @@
+This is the sub template Do not use this template directly use instead This template is called from does parameter preprocessing Thus simplifying the code This template is used by the en Wikipedia Editnotice editnotice system 

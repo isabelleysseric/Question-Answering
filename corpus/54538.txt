@@ -1,0 +1,1 @@
+local p local colors function colors color local type args type local subtype args subtype subtype subtype and string lower or local colorFunc self type return colorFunc and colorFunc or background fff border px solid endlocal function motorway return background C color fff endcolors M motorwaycolors AM motorwaycolors Motorway motorwaylocal function ARoad return subtype 

@@ -1,0 +1,1 @@
+font weight bold font family monospace margin left em padding left em border black solid px border style dotted solid dotted solid background palegreen padding em whitespace pre noinclude

@@ -1,0 +1,1 @@
+The text passed to this template is displayed as an internal link in one of the following ways If the text is the name of an existing page the text is displayed as a blue link with a line through it If it is not the name of an existing page it is displayed as a red link 

@@ -1,0 +1,1 @@
+ Coronagraph is a telescope to see things around the sun The telescope uses a disk to block the bright surface of the sun exposing bright objects around the sun to be visible to human eyes 

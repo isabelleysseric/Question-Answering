@@ -1,0 +1,1 @@
+ IZArc is a file archiver for Microsoft Windows developed by Bulgaria n programmer Ivan Zahariev The program is freeware but not open source IZarc can open the most commonly used List of archive formats archive formats like ZIP IZarc has an integration in Windows Explorer and has an Antivirus software Virus Scan feature IZarc can also do Compact disc CD image conversions 

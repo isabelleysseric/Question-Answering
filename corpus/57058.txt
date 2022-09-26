@@ -1,0 +1,1 @@
+This is a meta template used to create Wikipedia Template messages Maintenance Protected articles pages and images protection message boxes This meta template automatically uses the right style for each namespace It also takes care of the code for the small case with just a small padlock icon at the top right corner of the page 

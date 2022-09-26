@@ -1,0 +1,1 @@
+ NOTE When changing the message please increment the number at class cookie ID in order to rename and invalidate the previous dismiss cookies Next available cookie number You have on your Help Watchlist watchlist not counting talk pages

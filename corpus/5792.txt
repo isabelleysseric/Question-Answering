@@ -1,0 +1,1 @@
+ Haiku is an open source operating system in development aimed at personal desktop computing and inspired by Be Inc s BeOS It is designed to be fast and easy to use Haiku uses the Be File System Features of this filesystem include a bit address space journaling and extensible attributes Michael Phipps started the Haiku project in as Palm Inc was purchasing Be Inc 

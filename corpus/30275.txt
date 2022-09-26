@@ -1,0 +1,1 @@
+ Hyperplane arrangements is a branch of mathematics that studies how smaller objects called hyperplanes can be arranged in a bigger object This is related to other fields of mathematics like number theory combinatorics and topology 

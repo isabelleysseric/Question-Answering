@@ -1,0 +1,1 @@
+ Transclusion is when the contents of one page or document is included within another In the Wikipedian context it is the use of the template functionality of MediaWiki to include the same content in multiple documents without having to edit those documents separately 

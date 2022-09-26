@@ -1,0 +1,1 @@
+ Windows Update is a feature found in Microsoft Windows that lets the user update their copy of Windows The Windows Update website can only be used with Internet Explorer It also allows updates to the definitions file of Windows Defender and to the Junk Mail filter in Windows Mail 

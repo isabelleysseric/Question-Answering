@@ -1,0 +1,1 @@
+A Torus is a shape from geometry that is obtained by rotating a circle in D space To obtain a torus the point around which the rotation occurs must be in a Plane plane with the circle If the point of rotation lies outside the circle the shape of the torus will have a hole and the torus will be called ring torus 

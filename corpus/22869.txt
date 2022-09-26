@@ -1,0 +1,1 @@
+In probability theory and applications Bayes theorem shows the relation between a conditional probability and its reverse form For example the probability of a hypothesis given some observed pieces of evidence and the probability of that evidence given the hypothesis This theorem is named after Thomas Bayes and often called Bayes law or Bayes rule 

@@ -1,0 +1,1 @@
+ class wikitable bgcolor ffffff cellpadding align right style margin left px width A Prism is a three dimensional shape which consists of two identical polygon s which do not lie in the same axis For each side of the polygon there will be a parallelogram 

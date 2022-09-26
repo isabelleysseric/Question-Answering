@@ -1,0 +1,1 @@
+ Kruskal s algorithm is a greedy algorithm to find a minimum spanning tree in a weighted undirected graph Joseph Kruskal first described it in In this case the shortest edge is the one with the lowest weight 

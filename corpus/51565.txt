@@ -1,0 +1,1 @@
+This template is used to generate an external link to the Federal Aviation Administration diagram for a specific airport These URL s change every days so by using a template they can be updated in one place rather than editing multiple articles 

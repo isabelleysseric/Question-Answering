@@ -1,0 +1,1 @@
+This template builds an alternative form of common fraction s It takes one two or three parameters the optional integer the optional numerator and the required denominator in this order Please do not substitute it 

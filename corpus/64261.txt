@@ -1,0 +1,1 @@
+A Newtonian fluid is a fluid where the ratio between shear stress changes linearly in proportion to the stress it is exposed to This proportion is known as viscosity Note that the inverse is not true there are fluids with constant viscosity that are Non Newtonian fluid s one example is the Boger fluid 

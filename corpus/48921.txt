@@ -1,0 +1,1 @@
+In statistics and in machine learning a linear predictor function is a linear function as well as in various other models such as principal component analysis and factor analysis In many of these models the coefficients are referred to as weights math stub 

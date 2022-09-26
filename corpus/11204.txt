@@ -1,0 +1,1 @@
+ Bubble sort is a simple sorting algorithm It is simple to understand so it is used as a training algorithm It is not used in the real world since it is not very efficient 

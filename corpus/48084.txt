@@ -1,0 +1,1 @@
+ maemo is a project that oversees the development of the Internet Tablet OS and the maemo application development platform The maemo project is paid for by Nokia 

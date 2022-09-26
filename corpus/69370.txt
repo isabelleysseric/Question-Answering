@@ -1,0 +1,1 @@
+All pages that can be changed on Wikipedia has a page history which can be found by clicking the history tab at the top of the page The page history has a list of the page s previous revisions The revisions include the date and time of each change the name or IP address of the user who made it and the Help Edit summary summary of the change 

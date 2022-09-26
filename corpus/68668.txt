@@ -1,0 +1,1 @@
+Prints the scale markers for Pseudo code if then print a bar with attibutes top height times And for intermediate markers if then print a bar with attributes top height includeonly

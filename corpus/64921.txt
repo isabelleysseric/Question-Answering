@@ -1,0 +1,1 @@
+This Help Templates Helper templates helper template provides a way to display a map in an Wikipedia WikiProject Infoboxes Infobox Optionally a location marker can be included 

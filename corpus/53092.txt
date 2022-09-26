@@ -1,0 +1,1 @@
+An even number is an integer which is evenly Division divisible by two This means that if the integer is divided by it yields no remainder Zero is an even number because zero divided by two equals zero Even numbers can be either positive or negative An integer that is not an even number is an odd number 

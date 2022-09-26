@@ -1,0 +1,1 @@
+ Produces a representation of a logically numbered year decade century millennium Second para is y d c m Representation style depends on the third parameter y always links n never links t produces simple text e g for use in category names s displays AD or BC in small capitals a adds AD if not BC ys ya ysa ns na nsa sa permitted combinations of above optionsUsed by noinclude

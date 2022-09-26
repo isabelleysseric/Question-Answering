@@ -1,0 +1,1 @@
+ Freenet is a decentralized different kinds of information From a user s perspective it can be thought of as simply a large storage device Freenet has been under continuous development since a version has not yet been released but current builds are usable The project has already seen a Rewrite for version Freenet is free software 

@@ -1,0 +1,1 @@
+This template has been designed to hold information on planet s Some parameters will not be applicable to individual types these parameters can be removed from the template call without any problems occurring It is recommended that the comment in the usage section be copied to the top of the article page 

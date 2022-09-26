@@ -1,0 +1,1 @@
+The pigeonhole principle explains that when there are pigeons in that container without having at least one hole containing more than one The pigeons are used here as an example for anything that can be put into containers or subdivisions This theorem is important in computer science and mathematics especially in graph theory 

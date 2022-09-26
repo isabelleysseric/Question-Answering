@@ -1,0 +1,1 @@
+A variable frequency drive is a device used to control the speed and torque of an Alternating current AC Electric motor motor by changing the motor input frequency and voltage 

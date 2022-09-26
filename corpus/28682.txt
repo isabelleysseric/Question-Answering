@@ -1,0 +1,1 @@
+ coordinates position absolute z index border none background none right px top px float right margin em padding em line height em text align right text indent font size text transform none white space nowrap display none li not patrolled background color ffffaa 

@@ -1,0 +1,1 @@
+An attribute value system is a basic knowledge representation framework comprising a table with columns designating attributes of a particular attribute of a particular object 

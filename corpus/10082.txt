@@ -1,0 +1,1 @@
+A recursive algorithm is a function function that tells itself to do something resulting in it running over and over on small er and smaller inputs At the end it gives back a value math stub 

@@ -1,0 +1,1 @@
+The queen in chess is piece which stands next to the King at the start of the game It can move any number of unoccupied squares diagonal ly vertical ly and horizontal ly When recording games it is shortened to Q 

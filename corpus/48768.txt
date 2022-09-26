@@ -1,0 +1,1 @@
+This is a template used within various templates within the It converts coordinates in the deg min sec system into a decimal number which is negative for western and or southern hemispere Usage noinclude

@@ -1,0 +1,1 @@
+ Logical conjunction If both of the inputs are true at the same time then logical conjunction outputs true If one of the inputs is false or if both of the inputs are false then logical conjunction outputs false Its logic gate equivalent is the AND gate 

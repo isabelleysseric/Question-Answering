@@ -1,0 +1,1 @@
+This template is part of a series of MMA event templates to make it easier to record the results of a MMA event This particular template is used at the end of the result table to close out the table and display the notes if needed 

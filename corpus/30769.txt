@@ -1,0 +1,1 @@
+ Goldbach s conjecture is one of the oldest unsolved problems in number theory and in all of mathematics It states Every even number even integer greater than can be written as the sum of two prime number primes 

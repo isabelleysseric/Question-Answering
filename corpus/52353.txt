@@ -1,0 +1,1 @@
+ Standard ML is a functional programming language functional programming language which is a dialect of ML It is sometimes used for writing compiler s and in automated theorem proving theorem provers 

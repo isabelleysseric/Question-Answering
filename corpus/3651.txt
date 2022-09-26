@@ -1,0 +1,1 @@
+This template is used to check whether the given parameter is a month It is useful for templates such as that sort articles into If the parameter is a month date time formatted in the way recognized by PHP s strtotime this template returns the month in the format is written in digits If the parameter is not a month date time the empty string is returned includeonly

@@ -1,0 +1,1 @@
+ Pretty Good Privacy to increase the security of e mail communication s It was originally created by Phil Zimmermann in PGP and other similar products follow the OpenPGP standard for encrypting and decrypting data 

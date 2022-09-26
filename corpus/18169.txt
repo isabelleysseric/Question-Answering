@@ -1,0 +1,1 @@
+ Kanotix also referred to as KANOTIX is a Linux distribution Live CD It can run from an optical disc drive without using a hard disk Kanotix uses KDE as the default desktop environment GNOME and other window manager s can be downloaded using Advanced Packaging Tool APT The name Kanotix is derived from the founder s nickname Kano Kanotix s mascot is a fangtooth 

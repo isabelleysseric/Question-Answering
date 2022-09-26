@@ -1,0 +1,1 @@
+ Control system is a device or system that gives commands to Management manage the behavior of other devices or systems The commands can be set or Computer programming programmed and the output is determined by the input A control system is represented by a logic diagram 

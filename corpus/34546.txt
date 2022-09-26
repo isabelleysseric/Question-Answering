@@ -1,0 +1,1 @@
+A weighted average is the average of values which are scaled by importance The weighted average of values is the sum of weights multiplication times values division divided by the sum of the weights 

@@ -1,0 +1,1 @@
+This template takes arguments It produces alt text Cells with content read like b black king Empty cells which are just spaces or have no alt text they emit to fit with WP ALT alt text guidelines includeonly

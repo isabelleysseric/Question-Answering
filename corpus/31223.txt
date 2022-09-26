@@ -1,0 +1,1 @@
+This template can be used to tell other editors that you withdrew something It can be used in Voting circumstances like in an WP RFA Request for Adminship or Bureaucratship or a discussion where you have voted for something This template can not be used with bots because there is already Template BotWithdrawn a template for that 

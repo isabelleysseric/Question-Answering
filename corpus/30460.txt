@@ -1,0 +1,1 @@
+A portable application is a computer program that does not require any type of installation in order to run This type of programs can also be carried on a USB flash drive 

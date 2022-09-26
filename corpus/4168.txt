@@ -1,0 +1,1 @@
+ Fitts s law is a theorem which states that the time needed to reach a surface is proportional to the distance from that surface and to its size Paul Fitts stated this theorem in Today the theroem is mostly used for the development of user interface s 

@@ -1,0 +1,1 @@
+ mw hook 	 Not on Special pages	if 		return 	 	var url mw util getUrl 		 diff mw config get 		 link 	if 		 link attr 	 else 		mw util addPortletLink 	 

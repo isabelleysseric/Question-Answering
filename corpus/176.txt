@@ -1,0 +1,1 @@
+ Scratch is a slide and drop programming language for children that allows them to explore and experiment with the concepts of computer programming by using the simple graphical interface of blocks that are put together to make simple codes 

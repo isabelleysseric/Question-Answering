@@ -1,0 +1,1 @@
+ Haskell is a purely functional programming language functional programming language It is named after Haskell Brooks Curry a U S mathematician who contributed a lot to logic Haskell is based on lambda calculus and uses the Greek letter lambda as its logo The main implementations are the Glasgow Haskell Compiler and Hugs a Haskell interpreter 

@@ -1,0 +1,1 @@
+This section describes how to use Template Infobox anatomy effectively The template does not at the current time include summary information about the condition itself Instead it contains a consistent interface to other sources that provide information about the condition Don t worry about trying to fill in all the fields even specifying one or two still can be useful 

@@ -1,0 +1,1 @@
+A positive definite matrix is a matrix matrix with special properties The definition of the term is best understood for square matrices that are symmetry symmetrical also known as Hermitian matrices 

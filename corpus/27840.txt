@@ -1,0 +1,1 @@
+This template resolves page names as they would be handled by MediaWiki s template transclusion process It thereby removes ambiguity when doing other things with template pagenames e g linking 

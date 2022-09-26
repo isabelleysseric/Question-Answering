@@ -1,0 +1,1 @@
+ INDO stands for Intermediate Neglect of Differential Overlap It is a semi empirical quantum chemistry method that is a development of the CNDO complete neglect of differential overlap cite book The method is now rarely used in its original form But it is the basis for several other methods such as MINDO ZINDO and SINDO 

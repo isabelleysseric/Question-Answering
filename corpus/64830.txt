@@ -1,0 +1,1 @@
+In computer engineering register renaming refers to a technique used to avoid unnecessary serialized execution of program Instruction instructions because of the reuse of the same processor register registers by those instructions 

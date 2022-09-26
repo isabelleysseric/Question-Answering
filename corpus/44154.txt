@@ -1,0 +1,1 @@
+Title Header for Wikipedia Route diagram template Parameters Title text If blanked Route diagram will show instead Template name When typed a mini v d e links to the route template will be displayed on the left Background color bedc by default Font color white by default

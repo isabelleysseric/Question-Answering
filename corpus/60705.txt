@@ -1,0 +1,1 @@
+ input abovetext overwrites ipa symbol name ucfirst above text by IPAsym name by ipa number return blank if error return blank if error close ucfirst IPAsym above title compose check soundfile name showbelow no suppresses the footer noinclude

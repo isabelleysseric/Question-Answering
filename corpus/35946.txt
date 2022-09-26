@@ -1,0 +1,1 @@
+This template is used to display a small flag icon next to an unlinked country name It is an alternative to the templates for use in cases where the country name does not need to be linked 

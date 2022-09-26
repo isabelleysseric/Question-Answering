@@ -1,0 +1,1 @@
+ is a template meant for pull quote s which stand apart from the text of a page NOTE This template should not be used for block quote s in article text For long quotations in the text the Wikipedia Manual of Style Quotations Manual of Style recommends using the HTML lt blockquote gt element such as through the use of the template 

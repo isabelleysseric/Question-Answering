@@ -1,0 +1,1 @@
+ EJB QL or EJB QL is a portable database query language for Enterprise Java Bean s It can run on any database It is used in JEE applications It is more complex but less powerful than SQL 

@@ -1,0 +1,1 @@
+ Vandal Warner is a Wikipedia Gadget gadget that makes warning users about their bad edits easier It is based on a tool named Whackamole which was created by User Pilotguy Vandal Warner adds some links to the toolbox These links only appear when you are editing a user talk page You can add warnings on the talk page of users rapidly by clicking on those links 

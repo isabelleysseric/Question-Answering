@@ -1,0 +1,1 @@
+In computer science debugging is the process of finding errors in a computer program If we think that the program may have an error we must debug the program in order to find the error If we find an error then we must try to correct it so that the program will then work correctly This has a lot of benefits and improves the quality of the overall product 

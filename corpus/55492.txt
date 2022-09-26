@@ -1,0 +1,1 @@
+ Lossy compression is a form of data compression where parts of the Information data are lost in the process Other lossy compression systems are MP for sound files and WMV for video If the compression were to be taken too far it would cause a noticeable change in the file 

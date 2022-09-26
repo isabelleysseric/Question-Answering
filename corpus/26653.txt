@@ -1,0 +1,1 @@
+A web crawler or spider is a computer program that automatically fetches the contents of a web page The program then analyses the content for example to index it by certain search terms Search engine s commonly use web crawlers 

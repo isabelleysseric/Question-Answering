@@ -1,0 +1,1 @@
+A quine is a special kind of computer program which accepts no inputs and outputs its own source code They are named after the philosopher Willard Van Orman Quine 

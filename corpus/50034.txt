@@ -1,0 +1,1 @@
+This category contains various utility templates used to compute dates and time values This category should only list basic date computing templates with general purposes that do not depend specifically on local Wikipedia project conventions Their design must remain clean but computationally correct for a wide range of possible values not just specific ranges of values 

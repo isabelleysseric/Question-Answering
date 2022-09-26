@@ -1,0 +1,1 @@
+Similar to Template Dts Dts orting and is used to display numbers with thousands separator in a Help Sorting sortable table and have them numerically sorted in alphabetic sort mode 

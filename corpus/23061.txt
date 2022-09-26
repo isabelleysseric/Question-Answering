@@ -1,0 +1,1 @@
+ set Sunday dates default color as blue had been red which violated WP NOR because Wikipedia uses red links as indicating broken links See talk page noinclude

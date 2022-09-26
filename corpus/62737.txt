@@ -1,0 +1,1 @@
+Magnetic storage is a way of storing data that uses magnets to store binary data It uses patterns of positive and negative magnetisation to store data using read write heads which can view and change the magnetisation A few examples include hard disk drive s floppy disk s and magnetic stripe s 

@@ -1,0 +1,1 @@
+This template evaluates its numeric parameter and returns its mathematical sign If the parameter is empty or missing it returns an empty string Otherwise the return value is if the parameter is positive if it is null if negative Syntax Examples nl Sjabloon Sgn ro Format Sgn includeonly

@@ -1,0 +1,1 @@
+For outdenting a reply on a talk page when indention gets too deep Indenting on talk pages is done using a colon character to produce tabs this template produces a connector bar and initial text to indicate an outdent based on the number of colons used in the previous indent 

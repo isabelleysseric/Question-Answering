@@ -1,0 +1,1 @@
+ OpenNIC uses an alternative Domain Name System so users can access more websites than they can on the normal internet Users can still access the normal internet Users can register domain name website names for free on OpenNIC whereas doing so on the normal internet is usually not free 

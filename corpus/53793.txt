@@ -1,0 +1,1 @@
+In statistics the mode of a set of data is the one that occurs most Very often sample s of data are collected These might be measurements of some kind In this context the mode is the value that occurs most often Unlike the median and the mean mean the mode is not necessarily unique There might be several different values that occur the same number of times 

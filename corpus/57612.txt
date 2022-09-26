@@ -1,0 +1,1 @@
+The margin of error is a way to measure the sampling error in the results of a statistical survey A bigger margin of error means that the results are less certain Margins of error occur when a population is incompletely sampled Usually the margin of error is defined as the radius of a confidence interval for a given sample 

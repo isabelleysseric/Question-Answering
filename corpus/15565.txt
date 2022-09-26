@@ -1,0 +1,1 @@
+For adding yellow highlight to specified text The highlight color can be changed and the highlight can also be set to expire at a certain date Please keep template usage to talk pages only 

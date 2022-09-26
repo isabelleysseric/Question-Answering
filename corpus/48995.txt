@@ -1,0 +1,1 @@
+ NOTOC Here are some example codes that you can use to make columns of text in your wikipedia article You can change the width of your columns by changing the code words that go between the text of your columns Good luck 

@@ -1,0 +1,1 @@
+ Internet Protocol version has roughly billion IP address es This is a problem because there are more than billion Internet connected computer s in the world This has led to a shortage of IPv addresses 

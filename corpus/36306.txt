@@ -1,0 +1,1 @@
+ In computing RAR is a archival file format that allows data compression error recovery and file spanning It was created by Eugene Roshal and is now license licensed to Win RAR GmbH 

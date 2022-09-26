@@ -1,0 +1,1 @@
+Each time a page is saved the old version is kept in the page history You can change the page back to one of these old versions You can do this when a page has been vandalized or when something has been added or removed when it should not have been Changing to an old version is called reverting 

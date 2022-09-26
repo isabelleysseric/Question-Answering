@@ -1,0 +1,1 @@
+This template provides a link to a specified MusicBrainz release group page via its permanent link If you do not provide an id the template will automatically try and use one from d Wikidata 

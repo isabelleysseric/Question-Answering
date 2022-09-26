@@ -1,0 +1,1 @@
+The It attempts a ISO region code for locations in Canada France Germany India and the United States It attempts a ISO alpha country code for all other locations 

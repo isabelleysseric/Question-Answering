@@ -1,0 +1,1 @@
+ The Bernoulli distribution is a probability distribution It is used in probability theory and statistics It is named after a Switzerland Swiss scientist Jacob Bernoulli A Bernoulli distribution is useful because it can be used to approximate the outcomes of an experiment This distribution has only one parameter the probability of a success 

@@ -1,0 +1,1 @@
+ Wikitext language or wiki markup is a markup language used to write pages in wiki websites such as Wikipedia It is a simplified alternative to HTML It is converted by wiki into regular HTML which the user s web browser will render 

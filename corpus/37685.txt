@@ -1,0 +1,1 @@
+This template is a short cut for the template It automatically links and abbreviates to units of measure and rounds to the nearest whole number The variables are as follows Number to be converted Units converted from Units converted to decimal place to round to includeonly

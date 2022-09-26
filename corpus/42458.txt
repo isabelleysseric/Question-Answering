@@ -1,0 +1,1 @@
+The Template str index any extracts a specified nth character from a string even allowing for accented letters or diacritics to be included in the string The string can be any length but position n is limited to at most 

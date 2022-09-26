@@ -1,0 +1,1 @@
+ Magnetomotive force Magnetic flux Magnetic reluctance Magnetic complex reluctance Complex reluctance Permeability Magnetic permeability Magnetic impedance Magnetic effective resistance Effective resistance Magnetic inductance Magnetic inductivity Magnetic capacitivity noinclude

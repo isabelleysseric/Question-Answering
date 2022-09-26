@@ -1,0 +1,1 @@
+This template is used primarily in infoboxes to create a comma delimited collection of items only adding the commas where needed For lists of items without bullets use 

@@ -1,0 +1,1 @@
+In computing a comma separated values file stores information you might find in a spreadsheet such as a table of text numbers and dates in a plain text file 

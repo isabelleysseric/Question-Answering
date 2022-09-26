@@ -1,0 +1,1 @@
+ Windows Mail is an email client included with Windows Vista It will not be included with any future releases of Microsoft Windows Windows because of the new Windows Live Mail It replaced the popular Microsoft Outlook Express email client that was included in Windows ME XP Unlike Outlook Express Windows Mail is not included with Windows Internet Explorer 

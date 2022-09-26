@@ -1,0 +1,1 @@
+ Internet Key Exchange cryptographic keys are derived Public key cryptography Public key technique s or alternatively a pre shared key are used to Mutual authentication mutually authenticate the communicating parties IKE builds upon the Oakley protocol 

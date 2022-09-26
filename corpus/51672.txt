@@ -1,0 +1,1 @@
+ In vector calculus the gradient of a scalar field is a vector field which points in the direction of the greatest rate of increase of the scalar field and whose Magnitude magnitude is the greatest rate of change A generalization of the gradient for functions which have vectorial values is the Jacobian 

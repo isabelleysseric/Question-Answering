@@ -1,0 +1,1 @@
+ Arch Linux is a Linux distribution Linux based operating system for i bit and x bit computers Arch Linux focuses on elegance code correctness minimalism pacman can be used to install remove and update packages of software on the computer 

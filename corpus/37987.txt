@@ -1,0 +1,1 @@
+A vector field is an arrangement of vector vectors over an area They can exist in any dimension Vector fields are useful for describing things that we cannot see such as magnetic attraction and gravity Vector calculus is the study of vector fields 

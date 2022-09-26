@@ -1,0 +1,1 @@
+In number theory a natural number is called semiprime if it can be written as the product product of two prime number s The two numbers do not need to be different A semiprime can also be the square of a prime number Such numbers are very useful for cryptography 

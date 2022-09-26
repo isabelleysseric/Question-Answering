@@ -1,0 +1,1 @@
+This template provides a clickable button formatting style for text It is not clickable and care should be taken when using it to avoid readers thinking the result may be 

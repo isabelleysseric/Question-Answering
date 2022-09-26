@@ -1,0 +1,1 @@
+An algebraic solution is an algebraic expression which is the solution of an algebraic equation in terms of the coefficients of the variables It is found only by addition subtraction multiplication Division The most well known example is the solution of the general quadratic equation x frac b pm sqrt b ac a There is a more complicated solution for the general cubic equation 

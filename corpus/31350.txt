@@ -1,0 +1,1 @@
+ Visual Basic NET is the second series of Microsoft s Visual Basic series It is sometimes shortened to VB NET It is an IDE and it includes an easy drag and drop interface It can make complete programs for Microsoft Windows Windows very easily 

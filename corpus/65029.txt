@@ -1,0 +1,1 @@
+This can be used on articles with WP Orphan fewer than one incoming link from the mainspace You may use a date parameter with this template for example to help with the categorisation of articles requiring links If you leave it out a WP BOT bot will fill it in This template will add tagged articles to 

@@ -1,0 +1,1 @@
+A Julia set is a fractal It is a set defined given a rational function is the complementary set of the Julia set of f The Fatou set of a function are the values such that all nearby values behave similarly when the function is Iterated function repeatedly iterated 

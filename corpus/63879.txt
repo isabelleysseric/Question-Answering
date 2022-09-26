@@ -1,0 +1,1 @@
+Detects whether the current or the given namespace has subpages enabled Returns yes if it does and an empty string otherwise This template can be substituted 

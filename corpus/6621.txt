@@ -1,0 +1,1 @@
+ no then show doc header at top This Infobox template is used to generate an infobox for the righthand side of two specific types of article on a country or territory or on a geopolitical organisation The syntax of parameters and examples are detailed in the collapsed show hide sections immediately below 

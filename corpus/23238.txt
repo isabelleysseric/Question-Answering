@@ -1,0 +1,1 @@
+An ethernet hub is an electronic device that runs a computer network It is a simple device and is easy to configure A hub acts like a repeater all data that arrives to one port is sent to all other ports protocolSome hubs may also come with a BNC and or Attachment Unit Interface connector to allow connection to legacy BASE or BASE network segments There are three kinds of hubs 

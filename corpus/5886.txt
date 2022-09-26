@@ -1,0 +1,1 @@
+This template automatically changes twice a year changing to on the second Sunday of March at am LT and changing to on the first Sunday of November at am LT 	The parameter offset is for alternate UTC offsets and takes the values and any integer between and It defaults to EST 	 Current daylight saving offset documentation 

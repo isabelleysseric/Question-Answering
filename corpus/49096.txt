@@ -1,0 +1,1 @@
+ The ZIP file format is a popular lossless data compression and file archiver archival format created by Phil Katz founder of PKWARE A ZIP file contains one or more files that have been compressed to reduce their file size or stored as is A number of compression algorithm s are permitted in zip files but in only DEFLATE is widely used and supported 

@@ -1,0 +1,1 @@
+In mathematics a geodesic is a curve with the shortest length between two places on a surface when considering places which are not too far These paths on a sphere are also called great circle s such that in this case two points are joined by two distinct geodesics A minimal geodesic is a particular case where the geodesic joining two distant points has the shortest length 

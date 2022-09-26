@@ -1,0 +1,1 @@
+The template provides links to the Special Search Search page on the various Wikipedia Sister projects Wikimedia sister projects If a matching article exists the reader will be directed there Otherwise normal search results are shown 

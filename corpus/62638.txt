@@ -1,0 +1,1 @@
+This template creates a clickable button There is only one unnamed parameter It is used to create the text of the button It can support wikilinks For example produces Note that clicking the edges of the button will do nothing The button must be clicked on the text en Template Clickable button includeonly

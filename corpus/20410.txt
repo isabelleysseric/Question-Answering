@@ -1,0 +1,1 @@
+In cryptography DES X block cipher designed to increase the complexity of a brute force attack using a technique called key whitening As Data Encryption Standard DES suffers from brute force attack DES X was a trial to overcome such drawbacks 

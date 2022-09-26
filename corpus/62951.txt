@@ -1,0 +1,1 @@
+A diode is an electronic component with two electrode s It allows electricity to go through it only in one direction Diodes can be used to convert alternating current to direct current are a type of diode that produce light Today the most common diodes are made from semiconductor materials such as silicon or sometimes germanium 

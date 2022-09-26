@@ -1,0 +1,1 @@
+Copy a blank version to use All parameter names must be in lowercase Use the character between each parameter Delete unused parameters to avoid clutter in the edit window Some samples may include the current date If the date is not current then the page noinclude

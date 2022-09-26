@@ -1,0 +1,1 @@
+ Wired Equivalent Privacy is a standard to use encryption in Wireless LAN s It was introduced in In mathematician s showed that WEP is not very strong A WEP connection could be decoded with software that can be easily found within minutes Even though it only offers low security WEP is still widely in use People sometimes call it Wireless Encryption Protocol which is wrong 

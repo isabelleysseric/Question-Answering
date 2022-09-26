@@ -1,0 +1,1 @@
+ MenuetOS is an operating system for architecture computers for x and x processors by Ville Mikael Turjanmaa It is a very small system which can be run from a floppy disk It is written in only assembly code and works fast because of these differences and because it has less code overhead It is available in English Russian Czech Serbian and Chinese 

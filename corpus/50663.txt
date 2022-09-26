@@ -1,0 +1,1 @@
+ C is a computer programming language It is developed by Microsoft It was created to use all capacities of net framework NET platform The first version was released in The most recent version is C which was released in July C is a modern language C s development team is led by Anders Hejlsberg the creator of Delphi 

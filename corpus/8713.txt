@@ -1,0 +1,1 @@
+ JavaScript is a Script scripting language for computer s It is often run in web browser applications to create dynamic content like a popup message or a live clock It is not related to the programming language Java programming language Java 

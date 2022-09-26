@@ -1,0 +1,1 @@
+In statistics Type I and type II errors are errors that happen when a coincidence occurs while doing statistical inference which gives you a wrong conclusion A Type I error is saying the original question is false when it is actually true A Type II error is saying the original question is true when it is actually false 

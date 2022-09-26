@@ -1,0 +1,1 @@
+ Mozilla Add ons is the official Mozilla website to store add ons for Mozilla software This software includes Mozilla Firefox Mozilla Thunderbird SeaMonkey and Mozilla Sunbird These add ons include extensions themes dictionaries search bar search engines and plugins 
