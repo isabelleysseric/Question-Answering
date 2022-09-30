@@ -1,6 +1,10 @@
 # Système de Question / Réponse
 
-[Question-Answering](https://github.com/isabelleysseric/Question-Answering) (GitHub)&nbsp; • &nbsp;[Wiki Question-Answering](https://github.com/isabelleysseric/Question-Answering/wiki) (Wiki) 
+[Question-Answering](https://github.com/isabelleysseric/Question-Answering) (GitHub)
+&nbsp; • &nbsp;[Question-Answering](https://github.com/isabelleysseric/Question-Answering/wiki) (Wiki)
+&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
+&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
+&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
 <br/>
 <br/>
 
