@@ -8,6 +8,14 @@
 <br/>
 <br/>
 
+**Co-équipiers**:  
+- Isabelle Eysseric
+- Nicolas Garde
+- David Poisson
+<br/>
+<br/>
+
+
 Ce programme utilise Keras pour créer et utiliser le modèle de Deep Learning.
 
 Vous pouvez installer l'environnement necessaire grâce à conda via la commande 
