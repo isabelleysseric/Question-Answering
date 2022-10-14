@@ -1,4 +1,4 @@
-name: nlp_tp3
+name: nlp_qa
 channels:
   - anaconda
   - conda-forge
