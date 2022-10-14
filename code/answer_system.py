@@ -1,8 +1,3 @@
-##
-## ift7022-4022
-## File description:
-## answer_system
-##
 
 from recherche_infos import ix, search_content
 from termcolor import colored
