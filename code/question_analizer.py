@@ -1,8 +1,3 @@
-##
-## ift7022-4022
-## File description:
-## question_analizer
-##
 
 import numpy as np
 import keras
