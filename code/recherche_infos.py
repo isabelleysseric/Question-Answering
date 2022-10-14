@@ -1,8 +1,3 @@
-##
-## ift7022-4022
-## File description:
-## recherche_infos
-##
 
 import os.path
 import pandas as pd
