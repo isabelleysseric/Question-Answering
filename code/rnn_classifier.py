@@ -1,8 +1,3 @@
-##
-## ift7022-4022
-## File description:
-## rnn_classifier
-##
 
 import spacy
 import numpy as np
