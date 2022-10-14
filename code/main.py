@@ -1,8 +1,4 @@
-##
-## ift7022-4022
-## File description:
-## main
-##
+
 
 from termcolor import colored
 import argparse
