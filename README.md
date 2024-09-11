@@ -54,7 +54,7 @@
 <br>
 
 
-**Co-équipiers**:  
+**Teammates**:
 - Isabelle Eysseric
 - Nicolas Garde
 - David Poisson
@@ -62,9 +62,9 @@
 <br/>
 
 
-Ce programme utilise Keras pour créer et utiliser le modèle de Deep Learning.
+This program uses Keras to create and use the Deep Learning model.  
 
-Vous pouvez installer l'environnement necessaire grâce à conda via la commande 
+You can install the necessary environment using conda via the command.  
 
 
 
@@ -72,28 +72,30 @@ Vous pouvez installer l'environnement necessaire grâce à conda via la commande
 conda create --name <env> --file requirements.txt
 ```
 
-ou alors
+or else
 
 ```
 conda env create -f environment.yml
 ```
 
-# Comment l'utiliser
+# How to use it
 
-Le programme s'excecute avec la commande 
+The program is executed with the command.
 
 ```
 python main.py
 ```
 
-Il est posible d'ajouter l'argument -n pour définir le nombres de documents maximal à retourner. Exemple: 
+It is possible to add the argument -n to define the maximum number of documents to return. Example:
 
 ```
 python main.py -n 5
 ```
 
-va retourner les 5 documents les plus probables pour répondre à la question.
+It will return the 5 most likely documents to answer the question.
 
-Une fois le programme exécuté, un prompt s'affichera ou il suffira de remplir la question.
+Once the program is executed, a prompt will be displayed where you just have to fill in the question.
 
-Pour fermer le prompt et le programme, vous pouvez entrer 'exit' dans le prompt.
+To close the prompt and the program, you can enter 'exit' in the prompt.
+
+
